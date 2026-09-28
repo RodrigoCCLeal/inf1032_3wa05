@@ -1,0 +1,24 @@
+# --- Microdados do ENEM (baixar do INEP, não versionar) ---
+microdados_enem_2024/
+competencias_redacao_enem_2024/
+*.zip
+*.csv
+
+# --- Saídas do pipeline de features ---
+data_processed/*
+*.parquet
+
+# exceção: a lista de features é pequena e vale versionar
+!data_processed/lista_features.csv
+
+# --- Python / Jupyter ---
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
