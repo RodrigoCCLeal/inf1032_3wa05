@@ -38,6 +38,7 @@ sexo_fem
 log_porte_municipio
 te_municipio
 te_uf
+outlier_winsorizado
 n_q008
 n_q009
 n_q010
