@@ -129,6 +129,17 @@ Regra: só imputamos onde o vazio **não** tem significado.
 
 As medianas vêm **só do conjunto de treino**, para que nenhuma informação do teste vaze para o pré-processamento.
 
+## 9.1 Outliers
+
+As variáveis de renda e os quocientes domiciliares (`renda_familiar`, `renda_pc`, `log_renda_pc`,
+`renda_sm`, `comodos_por_pessoa`, `computador_por_pessoa` e `celular_por_pessoa`) são winsorizadas nos
+percentis **0,5% e 99,5%**, calculados exclusivamente no treino. As linhas não são removidas: a flag
+`outlier_winsorizado` registra se qualquer uma dessas variáveis foi cortada.
+
+Depois da winsorização, `indice_bens` e `inse_proxy` são recalculados com médias e desvios-padrão do treino,
+que também são aplicados ao teste. Isso mantém os índices consistentes com `log_renda_pc` e evita vazamento
+de estatísticas do conjunto de teste.
+
 ---
 
 ## 10. Split e codificações
