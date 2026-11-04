@@ -54,7 +54,7 @@ NUM_ENTRADA = [
     "sexo_fem",
 ] + BENS
 
-#: target encodings da seção 4; entram só quando `target_encodings=True` (demonstração de vazamento)
+#: target encodings da seção 8.1; entram só quando `target_encodings=True` (demonstração de vazamento)
 TE = ["te_municipio", "te_uf"]
 
 #: categóricas que passam pelo preparo
