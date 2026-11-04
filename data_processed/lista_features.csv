@@ -48,5 +48,16 @@ n_q016
 n_q017
 n_q019
 n_q020
-CO_MUNICIPIO_PROVA
+prop_municipio
+outlier_renda
+indice_bens
+inse_proxy
+esc_pai_ausente
+esc_mae_ausente
+esc_max_pais_ausente
+esc_media_pais_ausente
+ocup_pai_ausente
+ocup_mae_ausente
+ocup_max_pais_ausente
+atraso_idade_ausente
 uf
