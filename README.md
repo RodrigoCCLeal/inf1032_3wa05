@@ -1,40 +1,49 @@
-# ordem
+# INF1032 · Grupo 5 — Redação do ENEM 2024 × perfil socioeconômico
 
-Os notebooks do projeto separados **por tarefa** e numerados na ordem de execução.
-Os arquivos antigos (`INF1032_G5_*.ipynb`, por sprint) continuam na raiz do
-repositório, intactos.
+O projeto inteiro está em **um notebook**, `INF1032_G5_projeto.ipynb`, com o preparo ajustável em
+`preparo.py` (importado pelo notebook). A ordem das seções é a ordem de execução.
 
-| # | notebook | tarefa | lê | grava |
-|---|----------|--------|----|-------|
-| 01 | `01_carregar_dados.ipynb` | carrega os CSVs brutos e junta participantes + redação | `PARTICIPANTES_2024.csv`, `COMPETENCIAS_REDACAO_2024.csv` | `enem2024_base_bruta.parquet` |
-| 02 | `02_analise_exploratoria.ipynb` | EDA: nota da redação × perfil | base bruta | gráficos |
-| 03 | `03_features.ipynb` | alvos, codificação, split treino/teste, matriz de features | base bruta | `enem2024_features_ordinal.parquet`, `enem2024_features_amostra_onehot.parquet`, `lista_features.csv` |
-| 04 | `04_alvo_sisu.ipynb` | classes de redação a partir das notas de corte do Sisu | `dados_sisu/`, `RESULTADOS_2024.csv` | `sisu2025_cursos_redacao.csv`, `limiares_classe_sisu.csv` |
-| 05 | `05_clusterizacao.ipynb` | **vazio** — perfis de participante (KMeans + silhueta) | features de 03 | — |
-| 06 | `06_modelo_referencia.ipynb` | regressão linear validada (modelo de referência) | features de 03 | — |
-| 07 | `07_classificacao_risco.ipynb` | classificação do risco de zerar a redação | features de 03 | — |
-| 08 | `08_ensemble_tuning_shap.ipynb` | ensemble, tuning e SHAP | features de 03 | — |
-| 09 | `09_visualizacoes_finais.ipynb` | **vazio** — gráficos de fechamento do G2 | 02 e 06–08 | — |
-| 10 | `10_avaliacao_teste.ipynb` | **vazio** — conjunto de teste, uma vez só | `split == "teste"` | — |
-| 11 | `11_checklist_etico_vies.ipynb` | **vazio** — equidade consolidada de 06 e 07 | — | — |
-| 12 | `12_deploy_streamlit.ipynb` | **vazio** — empacotar o modelo e o app | — | — |
-
-Os cinco "vazios" são os itens que a Sprint 6 deixou em aberto: existem só para
-segurar o lugar na ordem. `run_all.sh` pula qualquer notebook sem célula de código.
+| Seção | O que faz | Lê | Grava |
+|---|---|---|---|
+| — | Objetivo, métrica e critério de sucesso | — | — |
+| 0 | Setup: caminhos, semente, imports | — | — |
+| 1 | Baixa os dados do INEP (se faltarem), carrega e junta participantes + redação | `PARTICIPANTES_2024.csv`, `COMPETENCIAS_REDACAO_2024.csv` | `enem2024_base_bruta.parquet` |
+| 2 | Análise exploratória | base bruta | gráficos |
+| 3 | Engenharia de features (linha a linha) | base bruta | — |
+| 4 | Split treino/teste e gravação | — | `enem2024_features.parquet`, `lista_features.csv` |
+| 5–12 | Modelagem (só treino): preparo, referência, diagnóstico, candidatos, tuning, ensemble, interpretabilidade | `enem2024_features.parquet` | — |
+| 13 | Avaliação no teste (uma vez só) | — | — |
+| 14 | Checklist ético e de viés | — | — |
+| 15 | Deploy (Streamlit) | — | — |
 
 ## Como rodar
 
+**No Colab:** abra o notebook e rode de cima para baixo. Não é preciso subir nada: o Setup baixa o
+`preparo.py` deste repositório e a seção 1 baixa os dois zips do INEP para `dados_brutos/` (~1,8 GB
+de disco; leva alguns minutos na primeira vez). As seções 1 a 4 só precisam rodar uma vez; depois,
+dá para começar da seção 5 (rode antes a célula de Setup).
+
+Todos os caminhos são relativos à pasta do notebook: `dados_brutos/` (CSVs do INEP) e
+`data_processed/` (derivados). Se você já tem os CSVs, coloque-os em `dados_brutos/` e o download é
+pulado.
+
+**Pela linha de comando:**
+
 ```bash
-export ENEM_DIR=/caminho/dos/csvs_brutos   # padrão: /content (Colab)
-./run_all.sh          # todos, na ordem
-./run_all.sh 03 06    # só esses
+pip install jupyter nbconvert pyarrow lightgbm shap
+export ENEM_DIR=/caminho/dos/csvs_brutos   # opcional; padrão: dados_brutos/
+./run_all.sh
 ```
 
-`ENEM_OUT` já cai em `../data_processed`. A execução é *in-place*: as saídas
-ficam gravadas no próprio notebook.
+`ENEM_OUT` (onde ficam os derivados) cai em `data_processed/`.
 
-Dependências: 01 → 02 e 03; 03 → 05, 06, 07, 08, 10. 04 é independente (lê os
-próprios arquivos do Sisu, que nenhum outro notebook usa).
+Dependências: pandas, numpy, scikit-learn, matplotlib e pyarrow (já vêm no Colab); `lightgbm` e
+`shap` são opcionais — sem eles o notebook usa o `HistGradientBoosting` e pula o gráfico do SHAP.
 
-O que mudou em relação aos notebooks da raiz: a leitura dos CSVs brutos saiu de
-02 e de 03 e virou o notebook 01. O resto é cópia.
+Memória: as seções 1 a 4 usam ~5 GB de RAM com a base cheia (4,3 milhões de inscritos). Cabe no
+Colab gratuito.
+
+## Arquivos antigos
+
+Os notebooks numerados `01_…` a `12_…` e os da pasta `sprints/` são versões anteriores, por tarefa e
+por sprint. O notebook único substitui todos eles.
