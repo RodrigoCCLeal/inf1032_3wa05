@@ -8,7 +8,7 @@ para quem o modelo erra mais?
 da variação da nota. O erro é parecido entre tipos de escola, sexo e regiões, mas o modelo **superestima
 a nota dos participantes indígenas** em cerca de 41 pontos. Detalhes nas seções 13 e 14 do notebook.
 
-**App:** _link do Streamlit Community Cloud — preencher depois do deploy (seção 15.3 do notebook)._
+**App:** [inf10323wa05-7p9a4prmgkj2vdyyvp8mmf.streamlit.app](https://inf10323wa05-7p9a4prmgkj2vdyyvp8mmf.streamlit.app/) — formulário do questionário → nota que o modelo associa ao perfil (seção 15 do notebook).
 
 ## Arquivos
 
