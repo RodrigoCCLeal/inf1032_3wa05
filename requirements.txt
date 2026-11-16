@@ -1,0 +1,7 @@
+# Dependências do app (app.py). As versões de scikit-learn, numpy, pandas e joblib têm de ser
+# as mesmas com que a seção 15.1 do notebook salvou o modelo (pacote["versoes"] no .joblib).
+streamlit==1.67.0
+scikit-learn==1.6.1
+numpy==2.5.3
+pandas==2.3.3
+joblib==1.6.0
