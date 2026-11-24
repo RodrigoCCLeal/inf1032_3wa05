@@ -1,0 +1,1604 @@
+ordem,municipio,nome,uf,participantes,previsto,real,priorizado,precisa
+1,1300607,Benjamin Constant,AM,125,537.2,486.7,True,True
+2,1300508,Barreirinha,AM,90,543.7,511.6,True,True
+3,1504505,Melgaço,PA,92,546.5,550.7,True,True
+4,1303106,Nova Olinda do Norte,AM,61,550.4,550.8,True,True
+5,1303007,Nhamundá,AM,102,550.6,567.6,True,True
+6,1505205,Oeiras do Pará,PA,129,552.8,546.7,True,True
+7,1301308,Codajás,AM,51,553.1,608.2,True,True
+8,1302900,Maués,AM,115,553.2,533.2,True,True
+9,1501907,Bujaru,PA,125,555.4,521.9,True,True
+10,1507706,São Sebastião da Boa Vista,PA,153,556.6,544.7,True,True
+11,1302702,Manicoré,AM,69,558.3,573.6,True,True
+12,1500206,Acará,PA,161,558.9,570.1,True,True
+13,1505908,Porto de Moz,PA,164,559.8,551.0,True,True
+14,1502806,Curralinho,PA,120,560.6,602.5,True,True
+15,1504000,Limoeiro do Ajuru,PA,147,561.0,571.0,True,True
+16,1505809,Portel,PA,201,561.1,538.6,True,True
+17,1304302,Urucará,AM,64,561.8,598.8,True,True
+18,1301407,Eirunepé,AM,72,562.0,615.3,True,True
+19,1600501,Oiapoque,AP,122,562.0,523.4,True,True
+20,1303403,Parintins,AM,489,563.6,560.9,True,True
+21,1505700,Ponta de Pedras,PA,115,563.6,532.5,True,True
+22,1300300,Autazes,AM,57,564.0,561.8,True,True
+23,1302405,Lábrea,AM,68,564.7,559.4,True,True
+24,1506302,Salvaterra,PA,194,565.6,568.4,True,True
+25,1506005,Prainha,PA,71,565.8,550.1,True,True
+26,1500701,Anajás,PA,67,567.8,541.2,True,True
+27,1505403,Ourém,PA,111,568.0,597.1,True,True
+28,1301852,Iranduba,AM,121,568.2,539.2,True,True
+29,1501782,Breu Branco,PA,105,568.4,550.5,True,True
+30,1507201,São Domingos do Capim,PA,96,568.6,561.7,True,True
+31,1508308,Viseu,PA,152,568.9,542.0,True,True
+32,1302504,Manacapuru,AM,245,569.4,559.8,True,True
+33,1505106,Óbidos,PA,192,569.5,558.5,True,True
+34,1501808,Breves,PA,641,569.6,568.1,True,True
+35,1301209,Coari,AM,181,570.0,547.4,True,True
+36,1507904,Soure,PA,148,571.2,620.0,True,False
+37,1300706,Boca do Acre,AM,62,573.1,606.1,True,True
+38,1500503,Almeirim,PA,62,573.1,575.8,True,True
+39,1500909,Augusto Corrêa,PA,132,573.7,595.2,True,True
+40,1200336,Mâncio Lima,AC,56,573.7,600.7,True,True
+41,1500958,Aurora do Pará,PA,59,573.8,573.2,True,True
+42,1502905,Curuçá,PA,189,574.4,578.4,True,True
+43,1504604,Mocajuba,PA,297,574.8,589.0,True,True
+44,1502756,Concórdia do Pará,PA,98,575.1,597.6,True,True
+45,1504901,Muaná,PA,140,575.3,539.4,True,True
+46,1303809,São Gabriel da Cachoeira,AM,95,576.2,550.1,True,True
+47,1504307,Maracanã,PA,84,576.2,562.9,True,True
+48,1503705,Itupiranga,PA,104,576.7,589.2,True,True
+49,1600402,Mazagão,AP,76,576.8,553.2,True,True
+50,1501204,Baião,PA,112,576.8,566.6,True,True
+51,5002407,Caarapó,MS,50,577.3,573.6,True,True
+52,1304062,Tabatinga,AM,118,578.2,551.7,True,True
+53,2112407,Turiaçu,MA,73,578.4,523.3,True,True
+54,1304203,Tefé,AM,138,579.3,569.7,True,True
+55,1503309,Igarapé-Miri,PA,334,580.1,581.2,True,True
+56,1200302,Feijó,AC,73,580.5,576.4,True,True
+57,2100956,Arame,MA,76,580.7,577.6,True,True
+58,1200609,Tarauacá,AC,115,581.2,545.6,True,True
+59,1301902,Itacoatiara,AM,272,581.9,569.0,True,True
+60,1507607,São Miguel do Guamá,PA,402,582.3,592.4,True,True
+61,1303536,Presidente Figueiredo,AM,59,583.3,603.1,True,True
+62,1301704,Humaitá,AM,147,583.9,586.9,True,True
+63,1200104,Brasiléia,AC,64,583.9,572.2,True,True
+64,1303569,Rio Preto da Eva,AM,61,584.1,590.8,True,True
+65,2700102,Água Branca,AL,117,584.6,589.7,True,True
+66,1500404,Alenquer,PA,208,585.1,571.2,True,True
+67,1506195,Rurópolis,PA,69,585.3,605.8,True,True
+68,1503093,Goianésia do Pará,PA,61,585.6,583.6,True,True
+69,1505064,Novo Repartimento,PA,122,585.9,583.6,True,True
+70,1503903,Juruti,PA,204,586.0,574.5,True,True
+71,2921500,Monte Santo,BA,139,586.1,568.8,True,True
+72,1505486,Pacajá,PA,111,586.1,567.4,True,True
+73,2907103,Carinhanha,BA,144,586.3,563.8,True,True
+74,1504059,Mãe do Rio,PA,158,586.5,610.5,True,True
+75,4304663,Capão do Leão,RS,91,587.2,554.7,True,True
+76,1504703,Moju,PA,270,588.0,573.6,True,True
+77,1600535,Porto Grande,AP,95,589.1,610.7,True,True
+78,1400472,Rorainópolis,RR,51,589.4,590.6,True,True
+79,2202901,Corrente,PI,412,589.5,575.2,True,True
+80,5000609,Amambai,MS,122,590.0,597.0,True,True
+81,1504802,Monte Alegre,PA,187,590.3,633.3,True,False
+82,2100204,Alcântara,MA,59,591.4,587.1,True,True
+83,2911105,Formosa do Rio Preto,BA,96,591.9,553.3,True,True
+84,2108306,Penalva,MA,92,592.0,567.2,True,True
+85,2905909,Campo Alegre de Lourdes,BA,68,592.2,572.6,True,True
+86,1507458,São Geraldo do Araguaia,PA,78,592.2,591.5,True,True
+87,2924603,Pindobaçu,BA,100,592.4,589.0,True,True
+88,5001904,Bataguassu,MS,54,592.6,620.0,True,False
+89,5004601,Itaquiraí,MS,63,592.9,580.6,True,True
+90,1715101,Novo Acordo,TO,62,592.9,546.8,True,True
+91,1720903,Taguatinga,TO,76,593.0,597.9,True,True
+92,1720804,Sítio Novo do Tocantins,TO,67,593.2,637.9,True,False
+93,2104099,Formosa da Serra Negra,MA,150,593.2,615.9,True,True
+94,2202000,Buriti dos Lopes,PI,131,593.4,602.9,True,True
+95,2906808,Cansanção,BA,136,593.7,572.4,True,True
+96,4318507,São José do Norte,RS,76,594.1,583.9,True,True
+97,2201507,Batalha,PI,96,594.4,584.6,True,True
+98,2932507,Una,BA,55,594.5,563.3,True,True
+99,2110609,São Bernardo,MA,277,594.9,604.0,True,True
+100,2105005,Humberto de Campos,MA,72,594.9,577.5,True,True
+101,2110500,São Bento,MA,233,596.2,570.3,True,True
+102,1502301,Capitão Poço,PA,285,597.1,607.8,True,True
+103,1508209,Vigia,PA,295,597.3,595.7,True,True
+104,1508001,Tomé-Açu,PA,258,597.3,589.9,True,True
+105,2923704,Paratinga,BA,93,597.4,581.5,True,True
+106,2106805,Mirinzal,MA,120,597.5,556.8,True,True
+107,2918209,Jiquiriçá,BA,56,597.7,643.6,True,False
+108,1702406,Arraias,TO,65,597.8,606.2,True,True
+109,5004700,Ivinhema,MS,104,597.9,631.5,True,False
+110,2902609,Baixa Grande,BA,164,597.9,614.1,True,True
+111,1200500,Sena Madureira,AC,117,598.1,600.7,True,True
+112,2101301,Bacuri,MA,88,598.3,630.5,True,False
+113,2932002,Uauá,BA,103,598.8,577.5,True,True
+114,1505304,Oriximiná,PA,245,598.8,590.1,True,True
+115,2102903,Carutapera,MA,142,599.2,552.8,True,True
+116,2112704,Vargem Grande,MA,185,599.4,579.7,True,True
+117,2702405,Delmiro Gouveia,AL,365,599.7,597.9,True,True
+118,1503200,Igarapé-Açu,PA,220,599.7,607.6,True,True
+119,2100907,Araioses,MA,65,599.9,580.3,True,True
+120,2904704,Buerarema,BA,64,600.0,584.7,True,True
+121,1200450,Senador Guiomard,AC,81,600.1,634.1,True,False
+122,2928406,Santa Rita de Cássia,BA,155,600.5,598.5,True,True
+123,2104677,Governador Nunes Freire,MA,56,600.6,658.9,True,False
+124,2908903,Coração de Maria,BA,119,600.7,601.8,True,True
+125,2927507,Santa Bárbara,BA,101,601.0,566.3,True,True
+126,2103703,Cururupu,MA,86,601.1,575.1,True,True
+127,4314605,Piratini,RS,59,601.2,639.3,True,False
+128,1507300,São Félix do Xingu,PA,92,601.5,632.4,True,False
+129,2112100,Timbiras,MA,106,601.7,593.8,True,True
+130,2932101,Ubaíra,BA,80,601.7,589.8,True,True
+131,2930303,Serra Dourada,BA,134,601.9,572.8,True,True
+132,1502954,Eldorado do Carajás,PA,83,602.0,546.3,True,True
+133,2922409,Mutuípe,BA,156,602.1,589.9,True,True
+134,2703106,Igaci,AL,119,602.3,637.8,True,False
+135,2929206,São Francisco do Conde,BA,91,602.3,562.2,True,True
+136,5003256,Costa Rica,MS,58,602.6,618.6,True,False
+137,5101258,Araputanga,MT,65,602.7,648.0,True,False
+138,2921302,Milagres,BA,94,602.8,596.4,True,True
+139,1101492,São Francisco do Guaporé,RO,68,603.0,588.5,True,True
+140,1721208,Tocantinópolis,TO,137,603.0,619.6,True,False
+141,1715754,Palmeirópolis,TO,63,603.1,612.7,True,True
+142,2902906,Barra do Choça,BA,120,603.1,591.5,True,True
+143,2111706,São Vicente Ferrer,MA,157,603.1,574.9,True,True
+144,2908101,Cocos,BA,151,603.3,617.1,True,False
+145,1506708,Santana do Araguaia,PA,62,603.4,578.7,True,True
+146,2918100,Jeremoabo,BA,261,603.7,610.9,True,True
+147,1508159,Uruará,PA,104,604.1,570.8,True,True
+148,2914505,Irará,BA,250,604.6,609.3,True,True
+149,2923803,Paripiranga,BA,274,604.7,626.2,True,False
+150,2925758,Presidente Tancredo Neves,BA,96,604.9,613.1,True,True
+151,2110203,Santa Rita,MA,110,605.0,578.2,True,True
+152,2932200,Ubaitaba,BA,182,605.0,610.3,True,True
+153,2108702,Pio XII,MA,91,605.0,605.1,True,True
+154,1503804,Jacundá,PA,202,605.2,601.6,True,True
+155,2105104,Icatu,MA,181,605.3,574.9,True,True
+156,2202703,Cocal,PI,171,605.5,643.6,True,False
+157,2932457,Umburanas,BA,64,605.6,618.4,True,False
+158,2929107,São Felipe,BA,101,605.7,545.5,True,True
+159,4115754,Mauá da Serra,PR,56,605.8,573.6,True,True
+160,5001102,Aquidauana,MS,171,605.8,623.2,True,False
+161,2917300,Ituberá,BA,102,605.9,597.5,True,True
+162,2202307,Canto do Buriti,PI,168,606.0,605.7,True,True
+163,2914653,Itabela,BA,73,606.1,601.9,True,True
+164,2930154,Serra do Ramalho,BA,69,606.3,573.0,True,True
+165,2107803,Parnarama,MA,164,606.3,613.0,True,True
+166,5006606,Ponta Porã,MS,280,606.3,593.6,True,True
+167,3502705,Apiaí,SP,101,606.4,592.1,True,True
+168,2915809,Itambé,BA,67,606.5,594.6,True,True
+169,2930204,Sento Sé,BA,53,606.5,622.3,True,False
+170,2901205,Anagé,BA,109,606.6,617.1,True,False
+171,2805406,Poço Redondo,SE,120,606.7,604.2,True,True
+172,2902708,Barra,BA,199,606.7,601.6,True,True
+173,4113304,Laranjeiras do Sul,PR,197,606.9,612.3,True,True
+174,1502103,Cametá,PA,1034,607.1,622.4,True,False
+175,2709202,Traipu,AL,90,607.4,584.7,True,True
+176,1707009,Dianópolis,TO,83,607.5,604.1,True,True
+177,2904308,Brejões,BA,58,607.5,599.0,True,True
+178,2907301,Castro Alves,BA,145,607.7,589.0,True,True
+179,2205706,Luís Correia,PI,57,607.9,634.0,True,False
+180,2208809,Regeneração,PI,109,608.7,596.7,True,True
+181,2512903,Rio Tinto,PB,191,608.8,608.8,True,True
+182,4315602,Rio Grande,RS,1164,608.9,601.5,True,True
+183,4320008,Sapucaia do Sul,RS,321,609.2,591.0,True,True
+184,4120903,Quedas do Iguaçu,PR,83,609.2,586.3,True,True
+185,5007901,Sidrolândia,MS,76,609.3,632.6,True,False
+186,1600279,Laranjal do Jari,AP,177,609.3,608.9,True,True
+187,1506203,Salinópolis,PA,245,609.4,593.1,True,True
+188,4302709,Butiá,RS,60,609.5,589.7,True,True
+189,2102101,Brejo,MA,129,609.7,608.2,True,True
+190,2904506,Brotas de Macaúbas,BA,52,609.7,623.8,True,False
+191,2913200,Ibotirama,BA,154,609.7,610.8,True,True
+192,2921203,Miguel Calmon,BA,166,609.7,604.8,True,True
+193,5005608,Miranda,MS,54,609.7,572.2,True,True
+194,2910503,Entre Rios,BA,174,609.7,565.7,True,True
+195,2923407,Palmas de Monte Alto,BA,88,609.8,610.5,True,True
+196,2904100,Boquira,BA,65,609.9,666.5,True,False
+197,1506187,Rondon do Pará,PA,140,609.9,618.7,True,False
+198,4128005,Ubiratã,PR,106,610.0,617.5,True,False
+199,2932606,Urandi,BA,79,610.0,683.3,True,False
+200,2928604,Santo Amaro,BA,230,610.1,575.7,True,True
+201,5002902,Cassilândia,MS,79,610.1,593.7,True,True
+202,2106508,Matinha,MA,118,610.3,578.6,True,True
+203,2805604,Porto da Folha,SE,111,610.4,588.6,True,True
+204,2906204,Canarana,BA,122,610.4,632.0,True,False
+205,2700706,Batalha,AL,176,610.5,599.3,True,True
+206,2927002,Rio Real,BA,147,610.5,664.6,True,False
+207,2200509,Amarante,PI,99,610.7,582.0,True,True
+208,2910602,Esplanada,BA,215,610.8,592.6,True,True
+209,2111102,São João dos Patos,MA,307,610.9,629.1,True,False
+210,1507953,Tailândia,PA,184,611.1,619.6,True,False
+211,4120002,Porecatu,PR,96,611.2,596.7,True,True
+212,5103353,Confresa,MT,126,611.7,577.3,True,True
+213,2112506,Tutóia,MA,194,611.7,611.5,True,True
+214,2802809,Indiaroba,SE,66,611.9,550.6,True,True
+215,2101905,Bequimão,MA,54,611.9,587.0,True,True
+216,2109809,Santa Helena,MA,123,612.2,616.6,True,False
+217,2908200,Conceição da Feira,BA,73,612.2,607.1,True,True
+218,2916005,Itanhém,BA,60,612.2,626.3,True,False
+219,2909901,Curaçá,BA,115,612.3,588.5,True,True
+220,2104008,Esperantinópolis,MA,122,612.4,627.2,True,False
+221,5003207,Corumbá,MS,302,612.4,592.6,True,True
+222,2201903,Bom Jesus,PI,420,612.4,619.0,True,False
+223,1302603,Manaus,AM,6944,612.4,612.5,True,True
+224,2101509,Barão de Grajaú,MA,85,612.6,622.6,True,False
+225,4119509,Piraquara,PR,170,612.8,585.1,True,True
+226,2112803,Viana,MA,204,612.8,586.8,True,True
+227,2702900,Girau do Ponciano,AL,238,612.8,642.9,True,False
+228,3544103,Rio Grande da Serra,SP,72,612.9,582.8,True,True
+229,2609303,Mirandiba,PE,71,612.9,578.0,True,True
+230,2905800,Camamu,BA,138,612.9,580.7,True,True
+231,4114302,Mandirituba,PR,83,613.0,607.5,True,True
+232,4119301,Pinhão,PR,52,613.1,603.8,True,True
+233,2933604,Xique-Xique,BA,215,613.1,596.2,True,True
+234,1200203,Cruzeiro do Sul,AC,488,613.2,606.4,True,True
+235,1100106,Guajará-Mirim,RO,188,613.2,589.8,True,True
+236,2603009,Cabrobó,PE,256,613.4,579.8,True,True
+237,2102002,Bom Jardim,MA,103,613.4,626.2,True,False
+238,2901106,Amélia Rodrigues,BA,77,613.4,627.5,True,False
+239,1501709,Bragança,PA,664,613.5,612.3,True,True
+240,2515401,São Vicente do Seridó,PB,73,613.6,609.6,True,True
+241,2210607,São Raimundo Nonato,PI,431,613.6,616.6,True,False
+242,2902807,Barra da Estiva,BA,226,613.7,603.7,True,True
+243,2107001,Montes Altos,MA,85,614.1,599.1,True,True
+244,2919801,Macaúbas,BA,215,614.2,685.2,True,False
+245,4301305,Arroio Grande,RS,63,614.3,616.5,True,False
+246,3516309,Francisco Morato,SP,275,614.4,594.4,True,True
+247,4111506,Ivaiporã,PR,166,614.4,615.7,True,True
+248,5002100,Bela Vista,MS,51,614.4,605.9,True,True
+249,5007208,Rio Brilhante,MS,101,614.5,588.5,True,True
+250,1600600,Santana,AP,676,614.5,623.3,True,False
+251,2708402,São José da Tapera,AL,175,614.6,635.9,True,False
+252,2112605,Urbano Santos,MA,182,614.7,601.6,True,True
+253,4303509,Camaquã,RS,353,614.8,599.7,True,True
+254,2110039,Santa Luzia do Paruá,MA,138,614.8,658.6,True,False
+255,2921104,Medeiros Neto,BA,79,614.8,598.0,True,True
+256,2920502,Maracás,BA,189,614.9,594.2,True,True
+257,3139201,Malacacheta,MG,65,614.9,601.8,True,True
+258,2705705,Olho d'Água das Flores,AL,161,614.9,603.0,True,True
+259,2922508,Nazaré,BA,244,615.0,603.9,True,True
+260,5101308,Arenápolis,MT,53,615.1,603.4,True,True
+261,4123501,Santa Helena,PR,64,615.1,618.4,True,False
+262,2106326,Maracaçumé,MA,99,615.3,579.4,True,True
+263,2907806,Cícero Dantas,BA,237,615.7,612.5,True,True
+264,2921708,Morro do Chapéu,BA,224,615.8,605.2,True,True
+265,4300604,Alvorada,RS,472,616.0,589.6,True,True
+266,2915502,Itajuípe,BA,104,616.0,635.0,True,False
+267,3509254,Cajati,SP,54,616.1,608.9,True,True
+268,4120804,Quatro Barras,PR,51,616.1,612.5,True,True
+269,4119608,Pitanga,PR,189,616.2,610.4,True,True
+270,2907202,Casa Nova,BA,148,616.3,594.9,True,True
+271,2921005,Mata de São João,BA,90,616.3,588.7,True,True
+272,2113009,Vitorino Freire,MA,184,616.5,654.7,True,False
+273,3138658,Lontra,MG,224,616.7,602.3,True,True
+274,5003306,Coxim,MS,108,616.7,582.0,True,True
+275,1716505,Pedro Afonso,TO,63,616.8,598.1,True,True
+276,2906303,Canavieiras,BA,67,616.9,689.0,True,False
+277,2927200,Ruy Barbosa,BA,233,617.0,614.8,True,True
+278,1702208,Araguatins,TO,165,617.1,608.4,True,True
+279,2101707,Barreirinhas,MA,173,617.1,616.6,True,False
+280,2909000,Cordeiros,BA,108,617.2,659.4,True,False
+281,2926707,Rio de Contas,BA,113,617.5,670.8,True,False
+282,2701001,Boca da Mata,AL,156,617.5,607.8,True,True
+283,2925501,Prado,BA,124,617.5,612.1,True,True
+284,1502939,Dom Eliseu,PA,127,617.5,613.2,True,True
+285,2901007,Amargosa,BA,235,617.5,635.1,True,False
+286,2801405,Carira,SE,151,617.5,621.6,True,False
+287,4121406,Realeza,PR,119,617.6,603.9,True,True
+288,5105101,Juara,MT,77,617.7,611.9,True,True
+289,2906873,Capim Grosso,BA,210,617.8,611.6,True,True
+290,4126256,Sarandi,PR,103,617.8,618.6,True,False
+291,4125605,São Mateus do Sul,PR,132,617.9,621.5,True,False
+292,2707701,Rio Largo,AL,425,617.9,617.9,True,False
+293,2920601,Maragogipe,BA,76,617.9,588.7,True,True
+294,4108809,Guaíra,PR,169,617.9,605.1,True,True
+295,1713205,Miracema do Tocantins,TO,122,617.9,593.9,True,True
+296,2708501,São Luís do Quitunde,AL,229,618.0,599.3,True,True
+297,4101903,Assaí,PR,96,618.0,622.5,True,False
+298,4105805,Colombo,PR,507,618.1,606.6,True,True
+299,2410207,Portalegre,RN,80,618.1,617.5,True,False
+300,5003801,Fátima do Sul,MS,78,618.3,661.5,True,False
+301,5106257,Nova Xavantina,MT,56,618.4,549.6,True,True
+302,1500602,Altamira,PA,742,618.4,612.2,True,True
+303,1502202,Capanema,PA,587,618.4,615.6,True,True
+304,4310330,Imbé,RS,67,618.4,606.9,True,True
+305,2205805,Luzilândia,PI,197,618.6,634.4,True,False
+306,4115705,Matinhos,PR,121,618.7,589.6,True,True
+307,2906709,Cândido Sales,BA,172,618.7,631.4,True,False
+308,2928802,Santo Estêvão,BA,313,618.8,607.2,True,True
+309,2709301,União dos Palmares,AL,485,618.9,621.6,True,False
+310,1508407,Xinguara,PA,231,619.0,581.1,True,True
+311,3515707,Ferraz de Vasconcelos,SP,393,619.0,604.4,True,True
+312,1501501,Benevides,PA,316,619.0,612.3,True,True
+313,1504422,Marituba,PA,479,619.2,629.5,True,False
+314,2707305,Porto Calvo,AL,225,619.2,602.1,True,True
+315,3145307,Novo Cruzeiro,MG,116,619.2,611.6,True,True
+316,2402303,Caraúbas,RN,184,619.3,612.8,True,True
+317,1502707,Conceição do Araguaia,PA,207,619.4,609.6,True,True
+318,2929255,São Gabriel,BA,58,619.4,643.4,True,False
+319,4318804,São Lourenço do Sul,RS,92,619.4,634.1,True,False
+320,4310603,Itaqui,RS,107,619.5,633.3,True,False
+321,2304707,Granja,CE,235,619.5,602.4,True,True
+322,2414506,Umarizal,RN,99,619.5,620.8,False,False
+323,2103505,Colinas,MA,203,619.5,630.1,False,False
+324,2500403,Alagoa Nova,PB,128,619.6,596.7,False,True
+325,2905602,Camacan,BA,209,619.6,597.4,False,True
+326,2924405,Pilão Arcado,BA,72,619.7,612.8,False,True
+327,2926400,Riacho de Santana,BA,163,619.7,689.2,False,False
+328,2802403,Gararu,SE,89,619.9,633.0,False,False
+329,2709400,Viçosa,AL,288,620.0,647.6,False,False
+330,2928208,Santana,BA,104,620.1,625.2,False,False
+331,2102325,Buriticupu,MA,193,620.1,601.8,False,True
+332,4117602,Palmas,PR,133,620.1,583.5,False,True
+333,2312403,São Gonçalo do Amarante,CE,252,620.3,621.6,False,False
+334,2902104,Araci,BA,139,620.3,596.5,False,True
+335,4300406,Alegrete,RS,238,620.3,623.1,False,False
+336,2206209,Miguel Alves,PI,85,620.4,616.0,False,True
+337,2912103,Ibicaraí,BA,176,620.4,625.6,False,False
+338,1709302,Guaraí,TO,178,620.4,645.1,False,False
+339,2904902,Cachoeira,BA,215,620.4,576.2,False,True
+340,1503606,Itaituba,PA,346,620.5,637.6,False,False
+341,3141801,Minas Novas,MG,158,620.7,605.8,False,True
+342,1708205,Formoso do Araguaia,TO,54,620.7,611.1,False,True
+343,4313706,Palmeira das Missões,RS,200,620.9,623.8,False,False
+344,2301851,Banabuiú,CE,51,620.9,618.8,False,False
+345,4107652,Fazenda Rio Grande,PR,321,621.0,595.5,False,True
+346,4105904,Colorado,PR,113,621.0,663.2,False,False
+347,2402204,Canguaretama,RN,245,621.0,594.8,False,True
+348,4109609,Guaratuba,PR,74,621.1,606.8,False,True
+349,1500107,Abaetetuba,PA,937,621.1,634.8,False,False
+350,2114007,Zé Doca,MA,200,621.1,619.7,False,False
+351,3519303,Ibaté,SP,70,621.1,644.6,False,False
+352,3134707,Jacinto,MG,66,621.2,573.6,False,True
+353,1505031,Novo Progresso,PA,66,621.2,638.2,False,False
+354,2925105,Poções,BA,411,621.4,621.2,False,False
+355,2917607,Jaguaquara,BA,361,621.5,638.9,False,False
+356,4122206,Rio Branco do Sul,PR,100,621.6,618.4,False,False
+357,1506500,Santa Izabel do Pará,PA,311,621.7,629.3,False,False
+358,3523107,Itaquaquecetuba,SP,590,621.8,613.1,False,True
+359,2103604,Coroatá,MA,218,621.8,649.9,False,False
+360,2709152,Teotônio Vilela,AL,228,621.9,646.8,False,False
+361,2700409,Atalaia,AL,120,622.2,620.3,False,False
+362,2110708,São Domingos do Maranhão,MA,191,622.4,657.3,False,False
+363,2911204,Gandu,BA,278,622.4,640.2,False,False
+364,3138906,Machacalis,MG,58,622.4,609.7,False,True
+365,4100806,Alvorada do Sul,PR,56,622.6,632.5,False,False
+366,2915601,Itamaraju,BA,186,622.6,622.4,False,False
+367,4127106,Telêmaco Borba,PR,212,622.7,590.2,False,True
+368,4115804,Medianeira,PR,238,622.8,622.9,False,False
+369,4102109,Astorga,PR,58,622.8,650.3,False,False
+370,2600500,Águas Belas,PE,230,622.8,612.9,False,True
+371,2102309,Buriti Bravo,MA,117,622.8,661.5,False,False
+372,5200803,Alvorada do Norte,GO,54,623.0,630.4,False,False
+373,5107065,Querência,MT,86,623.0,584.2,False,True
+374,2309102,Mulungu,CE,54,623.1,689.6,False,False
+375,2103406,Coelho Neto,MA,262,623.1,620.3,False,False
+376,5002951,Chapadão do Sul,MS,123,623.1,603.7,False,True
+377,3522505,Itapevi,SP,416,623.2,611.5,False,True
+378,4102000,Assis Chateaubriand,PR,143,623.3,628.3,False,False
+379,5212709,Mambaí,GO,54,623.3,562.6,False,True
+380,2933208,Vera Cruz,BA,110,623.4,607.6,False,True
+381,2308609,Monsenhor Tabosa,CE,83,623.4,686.0,False,False
+382,2701407,Campo Alegre,AL,141,623.4,641.6,False,False
+383,4319604,São Sepé,RS,61,623.6,589.8,False,True
+384,2307635,Madalena,CE,51,623.6,658.0,False,False
+385,4304507,Canguçu,RS,183,623.6,654.6,False,False
+386,2312106,Santana do Cariri,CE,53,623.7,590.2,False,True
+387,5107701,Rosário Oeste,MT,59,623.7,590.2,False,True
+388,2306603,Itatira,CE,121,623.7,709.9,False,False
+389,4305355,Charqueadas,RS,125,623.7,585.3,False,True
+390,4113205,Lapa,PR,102,623.8,610.8,False,True
+391,2501302,Aroeiras,PB,134,623.8,659.3,False,False
+392,2919157,Lapão,BA,82,623.9,633.7,False,False
+393,3302007,Itaguaí,RJ,312,623.9,622.9,False,False
+394,3544251,Rosana,SP,56,624.0,627.9,False,False
+395,2111508,São Mateus do Maranhão,MA,179,624.0,611.1,False,True
+396,2203701,Esperantina,PI,296,624.1,614.8,False,True
+397,2913705,Inhambupe,BA,289,624.2,617.2,False,False
+398,5006200,Nova Andradina,MS,160,624.2,613.0,False,True
+399,2103208,Chapadinha,MA,399,624.3,626.9,False,False
+400,4314407,Pelotas,RS,1714,624.4,617.6,False,False
+401,2708006,Santana do Ipanema,AL,325,624.4,626.6,False,False
+402,2507705,Juazeirinho,PB,135,624.5,614.8,False,True
+403,2404705,Ipanguaçu,RN,70,624.5,605.7,False,True
+404,2914000,Ipirá,BA,298,624.5,638.3,False,False
+405,4124053,Santa Terezinha de Itaipu,PR,64,624.5,580.9,False,True
+406,2929909,Seabra,BA,477,624.6,645.0,False,False
+407,2414803,Vera Cruz,RN,99,624.6,600.2,False,True
+408,1508100,Tucuruí,PA,435,624.6,626.1,False,False
+409,2908507,Conceição do Jacuípe,BA,177,624.6,615.3,False,True
+410,1702554,Augustinópolis,TO,142,624.6,662.3,False,False
+411,5005004,Jardim,MS,85,624.8,629.4,False,False
+412,2414407,Touros,RN,150,624.9,620.9,False,False
+413,2208304,Piracuruca,PI,197,624.9,641.3,False,False
+414,3132107,Itacarambi,MG,93,624.9,534.8,False,True
+415,2929305,São Gonçalo dos Campos,BA,151,624.9,624.5,False,False
+416,2105401,Itapecuru Mirim,MA,222,625.0,608.6,False,True
+417,2100600,Amarante do Maranhão,MA,133,625.0,591.7,False,True
+418,4112108,Jandaia do Sul,PR,117,625.2,643.9,False,False
+419,2210003,São João do Piauí,PI,245,625.3,613.4,False,True
+420,4315701,Rio Pardo,RS,101,625.3,610.1,False,True
+421,4104501,Capanema,PR,61,625.3,668.2,False,False
+422,4311700,Machadinho,RS,56,625.3,648.6,False,False
+423,4120606,Prudentópolis,PR,107,625.4,618.3,False,False
+424,2111607,São Raimundo das Mangabeiras,MA,153,625.4,598.8,False,True
+425,5204904,Campos Belos,GO,199,625.4,620.4,False,False
+426,2929602,Sapeaçu,BA,107,625.5,593.5,False,True
+427,1400100,Boa Vista,RR,1469,625.5,625.4,False,False
+428,3161106,São Francisco,MG,214,625.5,593.1,False,True
+429,1100254,Presidente Médici,RO,64,625.5,627.8,False,False
+430,2411056,Tibau,RN,64,625.5,575.0,False,True
+431,4101002,Ampére,PR,77,625.6,653.8,False,False
+432,2928000,Santaluz,BA,152,625.6,580.9,False,True
+433,4318408,São Jerônimo,RS,102,625.6,609.6,False,True
+434,2926004,Remanso,BA,142,625.7,619.9,False,False
+435,2210508,São Pedro do Piauí,PI,77,625.8,604.7,False,True
+436,2105708,Lago da Pedra,MA,248,625.8,642.7,False,False
+437,5106422,Peixoto de Azevedo,MT,61,625.8,639.7,False,False
+438,5215231,Novo Gama,GO,209,626.0,591.3,False,True
+439,3522406,Itapeva,SP,346,626.1,626.2,False,False
+440,5007695,São Gabriel do Oeste,MS,64,626.1,647.2,False,False
+441,4117701,Palmeira,PR,72,626.2,585.3,False,True
+442,2109106,Presidente Dutra,MA,314,626.2,632.9,False,False
+443,4103701,Cambé,PR,220,626.4,629.7,False,False
+444,2103307,Codó,MA,418,626.4,612.9,False,True
+445,2109601,Rosário,MA,263,626.5,603.7,False,True
+446,5104807,Jaciara,MT,120,626.5,606.7,False,True
+447,4100400,Almirante Tamandaré,PR,186,626.6,621.7,False,False
+448,2926608,Ribeira do Pombal,BA,342,626.6,643.0,False,False
+449,4319802,São Vicente do Sul,RS,126,626.7,616.3,False,True
+450,2922300,Muritiba,BA,89,626.7,642.0,False,False
+451,2932903,Valença,BA,425,626.7,633.0,False,False
+452,2923001,Nova Viçosa,BA,109,626.8,602.8,False,True
+453,3124302,Espinosa,MG,104,626.8,645.0,False,False
+454,5005707,Naviraí,MS,121,626.9,624.5,False,False
+455,2512002,Pocinhos,PB,77,626.9,657.9,False,False
+456,2914703,Itaberaba,BA,428,627.0,608.6,False,True
+457,2706901,Pilar,AL,164,627.0,594.4,False,True
+458,2923605,Paramirim,BA,235,627.1,662.7,False,False
+459,2911600,Governador Mangabeira,BA,149,627.1,606.0,False,True
+460,2500502,Alagoinha,PB,83,627.2,624.3,False,False
+461,2300754,Amontada,CE,191,627.2,623.7,False,False
+462,3150802,Piranga,MG,82,627.2,675.4,False,False
+463,2507309,Jacaraú,PB,132,627.3,620.5,False,False
+464,4124103,Santo Antônio da Platina,PR,181,627.4,617.1,False,False
+465,2906006,Campo Formoso,BA,248,627.5,616.4,False,True
+466,1100320,São Miguel do Guaporé,RO,72,627.6,676.1,False,False
+467,2211308,Valença do Piauí,PI,417,627.8,623.7,False,False
+468,2400802,Angicos,RN,195,627.8,610.5,False,True
+469,3539509,Pitangueiras,SP,60,627.8,641.3,False,False
+470,2914406,Iraquara,BA,145,627.8,634.8,False,False
+471,4322400,Uruguaiana,RS,512,628.0,610.2,False,True
+472,4106407,Cornélio Procópio,PR,241,628.0,620.4,False,False
+473,2109007,Porto Franco,MA,192,628.1,609.9,False,True
+474,2929503,São Sebastião do Passé,BA,130,628.1,622.5,False,False
+475,2505600,Diamante,PB,55,628.1,665.5,False,False
+476,2110005,Santa Luzia,MA,184,628.1,653.4,False,False
+477,4113502,Loanda,PR,153,628.2,621.0,False,False
+478,1100015,Alta Floresta D'Oeste,RO,58,628.3,703.1,False,False
+479,5219753,Santo Antônio do Descoberto,GO,155,628.3,593.7,False,True
+480,3510203,Capão Bonito,SP,135,628.4,583.3,False,True
+481,3526209,Juquitiba,SP,99,628.4,634.7,False,False
+482,1100346,Alvorada D'Oeste,RO,53,628.4,678.5,False,False
+483,5106752,Pontes e Lacerda,MT,134,628.6,596.6,False,True
+484,5106505,Poconé,MT,56,628.7,570.4,False,True
+485,4309308,Guaíba,RS,344,628.7,608.7,False,True
+486,2603926,Carnaubeira da Penha,PE,82,628.8,623.4,False,False
+487,3158201,Santa Maria do Suaçuí,MG,70,628.8,647.1,False,False
+488,3102308,Alvinópolis,MG,55,628.8,639.6,False,False
+489,4125704,São Miguel do Iguaçu,PR,58,628.8,639.7,False,False
+490,4128500,Wenceslau Braz,PR,126,628.9,628.9,False,False
+491,2905206,Caetité,BA,457,629.0,667.4,False,False
+492,2109452,Raposa,MA,120,629.0,603.7,False,True
+493,2206407,Monsenhor Gil,PI,98,629.0,627.8,False,False
+494,2412203,São José de Mipibu,RN,167,629.1,613.2,False,True
+495,2933000,Valente,BA,159,629.1,625.2,False,False
+496,2903904,Bom Jesus da Lapa,BA,297,629.1,614.1,False,True
+497,2910701,Euclides da Cunha,BA,282,629.2,614.6,False,True
+498,2400505,Alexandria,RN,127,629.2,668.0,False,False
+499,4108601,Goioerê,PR,78,629.3,657.7,False,False
+500,2211100,União,PI,224,629.3,635.2,False,False
+501,4107207,Dois Vizinhos,PR,206,629.3,635.6,False,False
+502,2201200,Barras,PI,412,629.3,644.5,False,False
+503,4110706,Irati,PR,231,629.5,630.3,False,False
+504,4119152,Pinhais,PR,347,629.6,618.4,False,False
+505,2908002,Coaraci,BA,141,629.7,622.0,False,False
+506,3520301,Iguape,SP,86,629.8,594.0,False,True
+507,4101804,Araucária,PR,410,629.8,620.3,False,False
+508,2601052,Araçoiaba,PE,74,629.9,611.9,False,True
+509,2702306,Coruripe,AL,222,629.9,639.9,False,False
+510,3144003,Mutum,MG,52,629.9,646.9,False,False
+511,3302270,Japeri,RJ,176,630.0,599.8,False,True
+512,5006309,Paranaíba,MS,115,630.0,630.8,False,False
+513,2930774,Sobradinho,BA,90,630.1,606.4,False,True
+514,3305554,Seropédica,RJ,321,630.1,621.7,False,False
+515,2108504,Pindaré-Mirim,MA,87,630.1,670.1,False,False
+516,2704708,Marechal Deodoro,AL,203,630.2,627.9,False,False
+517,4117909,Palotina,PR,132,630.4,648.3,False,False
+518,2203909,Floriano,PI,776,630.5,616.0,False,True
+519,5200258,Águas Lindas de Goiás,GO,631,630.6,605.9,False,True
+520,2301406,Aratuba,CE,70,630.6,652.6,False,False
+521,4104006,Campina Grande do Sul,PR,136,630.8,623.1,False,False
+522,2102804,Carolina,MA,82,630.8,623.9,False,False
+523,2913101,Ibititá,BA,124,630.9,651.6,False,False
+524,3531100,Mongaguá,SP,111,631.1,615.5,False,True
+525,2103802,Dom Pedro,MA,222,631.1,685.6,False,False
+526,2908408,Conceição do Coité,BA,266,631.2,645.5,False,False
+527,5215603,Padre Bernardo,GO,71,631.3,575.8,False,True
+528,2112209,Timon,MA,673,631.4,647.1,False,False
+529,3522109,Itanhaém,SP,196,631.5,615.6,False,True
+530,4311205,Júlio de Castilhos,RS,124,631.5,622.4,False,False
+531,3304755,São Francisco de Itabapoana,RJ,80,631.5,626.8,False,False
+532,2803203,Itaporanga d'Ajuda,SE,160,631.6,611.2,False,True
+533,4116901,Nova Esperança,PR,64,631.7,627.2,False,False
+534,3123700,Engenheiro Caldas,MG,63,631.7,638.1,False,False
+535,4109708,Ibaiti,PR,122,631.7,628.0,False,False
+536,2805505,Poço Verde,SE,147,631.8,682.3,False,False
+537,4306601,Dom Pedrito,RS,73,631.9,582.7,False,True
+538,4105409,Chopinzinho,PR,78,631.9,649.0,False,False
+539,2926301,Riachão do Jacuípe,BA,293,632.0,643.9,False,False
+540,2309805,Pacoti,CE,146,632.0,596.6,False,True
+541,2111201,São José de Ribamar,MA,491,632.0,613.6,False,True
+542,4314050,Parobé,RS,118,632.1,618.3,False,False
+543,1501303,Barcarena,PA,520,632.2,629.9,False,False
+544,4114609,Marechal Cândido Rondon,PR,190,632.2,658.8,False,False
+545,2207009,Oeiras,PI,397,632.2,628.3,False,False
+546,2104800,Grajaú,MA,210,632.3,610.7,False,True
+547,4318903,São Luiz Gonzaga,RS,162,632.3,605.8,False,True
+548,4311007,Jaguarão,RS,69,632.4,603.5,False,True
+549,2503506,Cacimba de Dentro,PB,74,632.5,635.4,False,False
+550,4301602,Bagé,RS,474,632.5,597.9,False,True
+551,3537800,Piedade,SP,108,632.5,624.6,False,False
+552,2303006,Caridade,CE,128,632.5,676.1,False,False
+553,2803302,Japaratuba,SE,85,632.6,633.9,False,False
+554,4104303,Campo Mourão,PR,450,632.7,634.0,False,False
+555,2405801,João Câmara,RN,355,632.7,612.5,False,True
+556,3523206,Itararé,SP,150,632.7,632.8,False,False
+557,5105150,Juína,MT,117,632.8,638.6,False,False
+558,3531803,Monte Mor,SP,119,632.9,605.0,False,True
+559,4317301,Santa Vitória do Palmar,RS,103,632.9,588.9,False,True
+560,2909307,Correntina,BA,122,632.9,616.9,False,False
+561,2211209,Uruçuí,PI,216,633.0,595.6,False,True
+562,2905008,Caculé,BA,318,633.0,676.8,False,False
+563,1100452,Buritis,RO,74,633.1,633.5,False,False
+564,1100056,Cerejeiras,RO,59,633.1,645.1,False,False
+565,2600203,Afrânio,PE,149,633.2,620.7,False,False
+566,2916104,Itaparica,BA,57,633.3,587.4,False,True
+567,5217609,Planaltina,GO,256,633.4,587.1,False,True
+568,4118204,Paranaguá,PR,357,633.4,606.4,False,True
+569,5104104,Guarantã do Norte,MT,55,633.6,597.8,False,True
+570,4302808,Caçapava do Sul,RS,118,633.6,629.0,False,False
+571,2928109,Santa Maria da Vitória,BA,194,633.7,643.5,False,False
+572,2916401,Itapetinga,BA,426,633.9,644.5,False,False
+573,2409308,Patu,RN,256,633.9,652.4,False,False
+574,2918357,João Dourado,BA,107,634.0,655.1,False,False
+575,2600302,Agrestina,PE,93,634.1,642.6,False,False
+576,2412500,São Miguel,RN,223,634.1,655.5,False,False
+577,2613602,São José do Egito,PE,317,634.1,670.2,False,False
+578,3550704,São Sebastião,SP,169,634.2,615.4,False,True
+579,2505105,Cuité,PB,315,634.3,610.7,False,True
+580,2801306,Capela,SE,139,634.4,658.3,False,False
+581,2509107,Mari,PB,111,634.4,622.7,False,False
+582,2500601,Alhandra,PB,67,634.5,586.9,False,True
+583,3146305,Padre Paraíso,MG,59,634.5,601.4,False,True
+584,2706307,Palmeira dos Índios,AL,491,634.5,643.2,False,False
+585,5103502,Diamantino,MT,61,634.6,639.0,False,False
+586,4323002,Viamão,RS,529,634.6,607.4,False,True
+587,2314102,Viçosa do Ceará,CE,341,634.6,635.5,False,False
+588,2302107,Baturité,CE,240,634.6,613.5,False,True
+589,2516508,Taperoá,PB,95,634.7,645.7,False,False
+590,4128203,União da Vitória,PR,210,634.7,650.7,False,False
+591,2608800,Lajedo,PE,300,634.7,628.7,False,False
+592,3139300,Manga,MG,114,634.7,610.5,False,True
+593,3119104,Corinto,MG,79,634.7,615.9,False,True
+594,2917508,Jacobina,BA,461,634.8,647.3,False,False
+595,3510609,Carapicuíba,SP,723,634.9,617.6,False,False
+596,2905701,Camaçari,BA,837,634.9,620.9,False,False
+597,5105622,Mirassol d'Oeste,MT,56,635.0,633.9,False,False
+598,2706703,Penedo,AL,345,635.0,603.9,False,True
+599,2508901,Mamanguape,PB,270,635.0,633.9,False,False
+600,2930709,Simões Filho,BA,413,635.1,611.3,False,True
+601,4321501,Torres,RS,234,635.1,634.2,False,False
+602,1600303,Macapá,AP,2773,635.1,641.4,False,False
+603,3506359,Bertioga,SP,110,635.2,610.0,False,True
+604,3126703,Francisco Sá,MG,112,635.2,658.9,False,False
+605,3135209,Januária,MG,352,635.3,591.5,False,True
+606,2610202,Panelas,PE,162,635.3,676.5,False,False
+607,5208806,Goianira,GO,217,635.4,648.8,False,False
+608,2108603,Pinheiro,MA,536,635.5,622.4,False,False
+609,5005400,Maracaju,MS,79,635.5,602.0,False,True
+610,1505502,Paragominas,PA,416,635.5,637.1,False,False
+611,4321600,Tramandaí,RS,159,635.6,620.5,False,False
+612,2108207,Pedreiras,MA,334,635.6,651.1,False,False
+613,2601607,Belém do São Francisco,PE,147,635.7,585.0,False,True
+614,2913903,Ipiaú,BA,382,635.8,633.8,False,False
+615,4320701,Sobradinho,RS,155,635.9,666.6,False,False
+616,3545308,Salto de Pirapora,SP,69,635.9,642.3,False,False
+617,5218300,Posse,GO,232,635.9,611.9,False,True
+618,2101202,Bacabal,MA,547,635.9,651.5,False,False
+619,4203600,Campos Novos,SC,82,635.9,633.9,False,False
+620,2610905,Pesqueira,PE,338,635.9,621.9,False,False
+621,2411502,Santo Antônio,RN,317,636.0,640.1,False,False
+622,4318002,São Borja,RS,190,636.0,616.7,False,False
+623,3167103,Serro,MG,88,636.1,584.1,False,True
+624,2613701,São Lourenço da Mata,PE,451,636.1,615.3,False,True
+625,2516102,Soledade,PB,109,636.2,641.3,False,False
+626,4319901,Sapiranga,RS,187,636.2,660.9,False,False
+627,3300456,Belford Roxo,RJ,600,636.3,611.9,False,True
+628,5101704,Barra do Bugres,MT,71,636.3,615.8,False,True
+629,4310108,Igrejinha,RS,91,636.3,633.6,False,False
+630,4320107,Sarandi,RS,197,636.3,641.8,False,False
+631,2614105,Sertânia,PE,122,636.4,666.6,False,False
+632,4105508,Cianorte,PR,271,636.4,636.3,False,False
+633,3300803,Cachoeiras de Macacu,RJ,118,636.5,640.8,False,False
+634,2101004,Arari,MA,195,636.6,646.5,False,False
+635,1508084,Tucumã,PA,124,636.6,626.0,False,False
+636,2112308,Tuntum,MA,73,636.6,650.4,False,False
+637,4101606,Arapoti,PR,61,636.6,631.5,False,False
+638,2302057,Barroquinha,CE,71,636.7,613.8,False,True
+639,2917706,Jaguarari,BA,114,636.7,611.8,False,True
+640,4119905,Ponta Grossa,PR,868,636.8,625.2,False,False
+641,4108403,Francisco Beltrão,PR,356,636.8,649.7,False,False
+642,5108402,Várzea Grande,MT,754,637.0,625.6,False,False
+643,5211800,Jaraguá,GO,202,637.0,630.8,False,False
+644,4106506,Coronel Vivida,PR,81,637.1,637.5,False,False
+645,4109401,Guarapuava,PR,512,637.2,614.4,False,True
+646,4111803,Jacarezinho,PR,110,637.3,660.7,False,False
+647,3302908,Miguel Pereira,RJ,125,637.4,639.8,False,False
+648,3513504,Cubatão,SP,207,637.4,643.6,False,False
+649,3550209,São Miguel Arcanjo,SP,53,637.5,622.6,False,False
+650,2603207,Caetés,PE,133,637.5,628.9,False,False
+651,2200202,Água Branca,PI,221,637.5,614.5,False,True
+652,5205497,Cidade Ocidental,GO,219,637.5,600.5,False,True
+653,2603900,Carnaíba,PE,149,637.5,683.8,False,False
+654,2506806,Ingá,PB,145,637.6,656.4,False,False
+655,1705508,Colinas do Tocantins,TO,150,637.7,663.2,False,False
+656,2105500,João Lisboa,MA,187,637.7,645.9,False,False
+657,2200400,Altos,PI,415,637.7,639.5,False,False
+658,3546801,Santa Isabel,SP,114,637.8,639.3,False,False
+659,2804409,Neópolis,SE,182,637.8,636.8,False,False
+660,2610400,Parnamirim,PE,61,637.8,606.6,False,True
+661,2610509,Passira,PE,214,637.8,642.5,False,False
+662,4317400,Santiago,RS,241,637.9,622.9,False,False
+663,2900702,Alagoinhas,BA,691,637.9,617.5,False,False
+664,2919504,Livramento de Nossa Senhora,BA,168,637.9,677.3,False,False
+665,4109807,Ibiporã,PR,165,637.9,634.7,False,False
+666,3502507,Aparecida,SP,100,637.9,619.4,False,False
+667,4104907,Castro,PR,187,637.9,612.7,False,True
+668,3132503,Itamarandiba,MG,163,638.0,660.7,False,False
+669,2408300,Nova Cruz,RN,314,638.1,665.0,False,False
+670,2302800,Canindé,CE,343,638.2,664.5,False,False
+671,2202208,Campo Maior,PI,454,638.3,643.4,False,False
+672,3522208,Itapecerica da Serra,SP,437,638.3,631.1,False,False
+673,2515104,São Sebastião de Lagoa de Roça,PB,74,638.4,647.8,False,False
+674,2302404,Boa Viagem,CE,181,638.6,605.7,False,True
+675,2615300,Timbaúba,PE,323,638.7,683.1,False,False
+676,4318309,São Gabriel,RS,143,638.8,610.9,False,True
+677,2403608,Extremoz,RN,214,638.8,624.6,False,False
+678,2930501,Serrinha,BA,504,638.9,641.4,False,False
+679,2104057,Estreito,MA,143,639.0,631.0,False,False
+680,4114807,Marialva,PR,52,639.2,681.9,False,False
+681,2202604,Castelo do Piauí,PI,188,639.2,650.4,False,False
+682,2708600,São Miguel dos Campos,AL,263,639.2,657.9,False,False
+683,4118402,Paranavaí,PR,303,639.3,647.1,False,False
+684,2301950,Barreira,CE,79,639.3,624.1,False,False
+685,2516607,Tavares,PB,80,639.3,690.2,False,False
+686,2311405,Quixeramobim,CE,278,639.3,632.9,False,False
+687,2401453,Baraúna,RN,90,639.4,677.1,False,False
+688,4122404,Rolândia,PR,152,639.4,684.6,False,False
+689,2313500,Trairi,CE,249,639.4,655.3,False,False
+690,1100130,Machadinho D'Oeste,RO,72,639.4,617.5,False,False
+691,5103205,Colíder,MT,74,639.5,678.6,False,False
+692,1100189,Pimenta Bueno,RO,128,639.5,625.5,False,False
+693,3100906,Águas Formosas,MG,74,639.5,635.9,False,False
+694,2910057,Dias d'Ávila,BA,228,639.5,609.8,False,True
+695,2512507,Queimadas,PB,252,639.5,629.4,False,False
+696,5101803,Barra do Garças,MT,291,639.5,641.9,False,False
+697,4128104,Umuarama,PR,559,639.6,660.0,False,False
+698,2407203,Macau,RN,125,639.7,643.0,False,False
+699,4207007,Içara,SC,74,639.7,613.2,False,True
+700,2931905,Tucano,BA,176,639.7,646.7,False,False
+701,4304630,Capão da Canoa,RS,210,639.8,613.9,False,True
+702,3516408,Franco da Rocha,SP,292,639.8,636.6,False,False
+703,3101706,Almenara,MG,234,639.8,615.2,False,True
+704,2305233,Horizonte,CE,305,639.8,639.9,False,False
+705,3515004,Embu das Artes,SP,527,639.9,631.4,False,False
+706,2801504,Carmópolis,SE,102,639.9,612.0,False,True
+707,3537602,Peruíbe,SP,193,639.9,621.5,False,False
+708,3537404,Pereira Barreto,SP,63,640.0,623.2,False,False
+709,3551009,São Vicente,SP,401,640.1,633.9,False,False
+710,3104502,Arinos,MG,107,640.1,616.1,False,True
+711,4307609,Estância Velha,RS,121,640.1,624.5,False,False
+712,2500304,Alagoa Grande,PB,140,640.1,626.4,False,False
+713,1100064,Colorado do Oeste,RO,62,640.2,686.5,False,False
+714,1200401,Rio Branco,AC,2159,640.2,634.5,False,False
+715,4125506,São José dos Pinhais,PR,847,640.4,624.6,False,False
+716,2313807,Uruburetama,CE,194,640.4,639.1,False,False
+717,2514503,São José de Piranhas,PB,117,640.5,652.3,False,False
+718,3135803,Jequitinhonha,MG,88,640.5,623.0,False,False
+719,4104204,Campo Largo,PR,270,640.6,643.3,False,False
+720,2407104,Macaíba,RN,345,640.6,629.3,False,False
+721,3155603,Rio Pardo de Minas,MG,122,640.7,666.6,False,False
+722,2606606,Ibimirim,PE,79,640.8,603.3,False,True
+723,4203204,Camboriú,SC,117,640.8,650.3,False,False
+724,2909802,Cruz das Almas,BA,436,640.8,627.6,False,False
+725,4122305,Rio Negro,PR,73,640.8,649.3,False,False
+726,3303609,Paracambi,RJ,125,640.9,652.8,False,False
+727,2605004,Cupira,PE,148,640.9,658.2,False,False
+728,2400703,Alto do Rodrigues,RN,99,641.0,623.6,False,False
+729,4320800,Soledade,RS,139,641.1,658.0,False,False
+730,3512803,Cosmópolis,SP,112,641.2,620.5,False,False
+731,2601201,Arcoverde,PE,539,641.2,627.2,False,False
+732,2103000,Caxias,MA,842,641.3,634.9,False,False
+733,5100250,Alta Floresta,MT,175,641.3,683.7,False,False
+734,2407005,Luís Gomes,RN,91,641.3,632.7,False,False
+735,5220207,São Miguel do Araguaia,GO,104,641.4,685.6,False,False
+736,2411205,Santa Cruz,RN,408,641.4,627.6,False,False
+737,2107506,Paço do Lumiar,MA,618,641.4,629.6,False,False
+738,4305207,Cerro Largo,RS,159,641.5,660.3,False,False
+739,2402600,Ceará-Mirim,RN,382,641.5,626.6,False,False
+740,3133303,Itaobim,MG,146,641.5,626.7,False,False
+741,1100205,Porto Velho,RO,2080,641.6,634.0,False,False
+742,2311264,Quiterianópolis,CE,89,641.6,603.1,False,True
+743,1506807,Santarém,PA,2035,641.6,647.4,False,False
+744,3304151,Quissamã,RJ,59,641.8,628.1,False,False
+745,2609907,Ouricuri,PE,364,641.8,629.1,False,False
+746,2922003,Mucuri,BA,121,641.9,634.2,False,False
+747,4320909,Tapejara,RS,127,641.9,663.8,False,False
+748,2607307,Ipubi,PE,91,642.0,682.4,False,False
+749,3509700,Campos do Jordão,SP,117,642.0,633.0,False,False
+750,4208500,Ituporanga,SC,101,642.0,676.4,False,False
+751,5106224,Nova Mutum,MT,123,642.1,640.7,False,False
+752,4217808,Taió,SC,77,642.1,621.0,False,False
+753,2930105,Senhor do Bonfim,BA,574,642.2,635.6,False,False
+754,3135050,Jaíba,MG,106,642.3,589.6,False,True
+755,3556503,Várzea Paulista,SP,140,642.3,636.0,False,False
+756,3118809,Coração de Jesus,MG,87,642.3,624.1,False,False
+757,5102678,Campo Verde,MT,109,642.4,649.9,False,False
+758,3302858,Mesquita,RJ,347,642.4,624.3,False,False
+759,2208403,Piripiri,PI,423,642.4,650.8,False,False
+760,2305605,Independência,CE,106,642.5,656.8,False,False
+761,3106309,Belo Oriente,MG,70,642.5,628.3,False,False
+762,2105427,Itinga do Maranhão,MA,63,642.6,616.8,False,False
+763,5217302,Pirenópolis,GO,114,642.8,640.5,False,False
+764,5212501,Luziânia,GO,425,642.9,632.8,False,False
+765,3539806,Poá,SP,276,642.9,640.4,False,False
+766,5008305,Três Lagoas,MS,370,643.0,647.1,False,False
+767,3303500,Nova Iguaçu,RJ,2031,643.1,632.8,False,False
+768,3301850,Guapimirim,RJ,96,643.2,624.4,False,False
+769,2313203,Tamboril,CE,125,643.3,651.2,False,False
+770,2412005,São Gonçalo do Amarante,RN,364,643.3,631.5,False,False
+771,2612604,Santa Maria da Boa Vista,PE,159,643.3,635.0,False,False
+772,2804458,Nossa Senhora Aparecida,SE,63,643.4,675.2,False,False
+773,3103405,Araçuaí,MG,246,643.4,635.9,False,False
+774,5208905,Goiás,GO,193,643.4,655.4,False,False
+775,3304144,Queimados,RJ,365,643.5,609.9,False,True
+776,3152204,Porteirinha,MG,186,643.5,649.8,False,False
+777,2600807,Altinho,PE,69,643.5,610.1,False,True
+778,2515302,Sapé,PB,293,643.6,630.5,False,False
+779,3538907,Pirajuí,SP,64,643.7,674.1,False,False
+780,2208205,Pio IX,PI,77,643.7,649.1,False,False
+781,4306106,Cruz Alta,RS,241,643.7,616.8,False,False
+782,1702109,Araguaína,TO,825,643.7,650.8,False,False
+783,4307708,Esteio,RS,231,643.8,607.9,False,True
+784,1718204,Porto Nacional,TO,228,643.8,615.3,False,True
+785,3552502,Suzano,SP,652,643.9,658.0,False,False
+786,3108552,Brasilândia de Minas,MG,88,643.9,615.9,False,True
+787,4127700,Toledo,PR,414,644.0,645.5,False,False
+788,2401107,Areia Branca,RN,111,644.1,660.0,False,False
+789,4205001,Dionísio Cerqueira,SC,75,644.1,642.9,False,False
+790,3157005,Salinas,MG,251,644.3,625.6,False,False
+791,4309209,Gravataí,RS,650,644.5,624.2,False,False
+792,2609006,Macaparana,PE,163,644.5,672.1,False,False
+793,2801207,Canindé de São Francisco,SE,158,644.5,657.7,False,False
+794,2305209,Hidrolândia,CE,93,644.6,703.9,False,False
+795,2302701,Campos Sales,CE,169,644.6,641.9,False,False
+796,3547601,Santa Rosa de Viterbo,SP,85,644.7,608.5,False,True
+797,3302502,Magé,RJ,442,644.8,639.8,False,False
+798,4303004,Cachoeira do Sul,RS,293,644.8,653.2,False,False
+799,2207801,Paulistana,PI,256,644.9,655.4,False,False
+800,2603454,Camaragibe,PE,823,645.0,637.4,False,False
+801,3551504,Serrana,SP,89,645.0,675.5,False,False
+802,4118501,Pato Branco,PR,337,645.1,671.9,False,False
+803,3510500,Caraguatatuba,SP,290,645.1,641.0,False,False
+804,1506138,Redenção,PA,318,645.1,638.9,False,False
+805,5210208,Iporá,GO,192,645.2,674.8,False,False
+806,2109908,Santa Inês,MA,500,645.2,673.4,False,False
+807,4308508,Frederico Westphalen,RS,326,645.3,656.7,False,False
+808,3108602,Brasília de Minas,MG,190,645.3,634.2,False,False
+809,4317509,Santo Ângelo,RS,311,645.4,645.7,False,False
+810,4303103,Cachoeirinha,RS,374,645.4,632.6,False,False
+811,2913606,Ilhéus,BA,778,645.5,646.7,False,False
+812,3518701,Guarujá,SP,504,645.7,624.5,False,False
+813,5102637,Campo Novo do Parecis,MT,85,645.7,667.1,False,False
+814,5217104,Piracanjuba,GO,150,645.7,655.7,False,False
+815,1500800,Ananindeua,PA,2872,646.0,647.6,False,False
+816,2309458,Ocara,CE,118,646.0,663.2,False,False
+817,2404200,Goianinha,RN,201,646.0,622.5,False,False
+818,4317103,Sant'Ana do Livramento,RS,221,646.1,642.8,False,False
+819,4101507,Arapongas,PR,247,646.1,626.6,False,False
+820,4321303,Taquari,RS,64,646.1,633.1,False,False
+821,2501104,Areia,PB,135,646.1,638.2,False,False
+822,3109303,Buritis,MG,77,646.1,617.9,False,False
+823,2600401,Água Preta,PE,52,646.3,639.6,False,False
+824,3542206,Rancharia,SP,91,646.3,632.7,False,False
+825,3301702,Duque de Caxias,RJ,2029,646.4,642.9,False,False
+826,5103007,Chapada dos Guimarães,MT,52,646.4,642.7,False,False
+827,2602902,Cabo de Santo Agostinho,PE,628,646.4,624.6,False,False
+828,2928703,Santo Antônio de Jesus,BA,636,646.5,645.9,False,False
+829,2512705,Remígio,PB,129,646.5,655.8,False,False
+830,2311603,Redenção,CE,185,646.5,633.9,False,False
+831,2311306,Quixadá,CE,403,646.5,638.4,False,False
+832,2602308,Bonito,PE,189,646.5,719.2,False,False
+833,3112307,Capelinha,MG,198,646.7,663.8,False,False
+834,3101102,Aimorés,MG,119,646.7,653.6,False,False
+835,2501005,Araruna,PB,131,646.7,672.1,False,False
+836,2602605,Brejo da Madre de Deus,PE,114,646.8,662.6,False,False
+837,2925204,Pojuca,BA,138,646.8,650.1,False,False
+838,5212204,Jussara,GO,127,646.8,651.2,False,False
+839,4101408,Apucarana,PR,382,646.9,623.4,False,False
+840,2610004,Palmares,PE,293,646.9,632.2,False,False
+841,3509205,Cajamar,SP,208,646.9,639.6,False,False
+842,3525003,Jandira,SP,220,647.0,643.5,False,False
+843,2607653,Itambé,PE,223,647.0,655.2,False,False
+844,4321907,Três Passos,RS,217,647.0,671.3,False,False
+845,2306306,Itapajé,CE,227,647.0,666.5,False,False
+846,3537909,Pilar do Sul,SP,78,647.0,653.6,False,False
+847,1100288,Rolim de Moura,RO,248,647.1,655.8,False,False
+848,2911709,Guanambi,BA,666,647.2,685.8,False,False
+849,3520400,Ilhabela,SP,64,647.2,634.7,False,False
+850,2600104,Afogados da Ingazeira,PE,218,647.2,656.2,False,False
+851,3171808,Virginópolis,MG,65,647.3,649.5,False,False
+852,5105259,Lucas do Rio Verde,MT,214,647.3,634.6,False,False
+853,2605707,Floresta,PE,197,647.3,623.1,False,False
+854,2301208,Aracoiaba,CE,167,647.3,664.9,False,False
+855,4322509,Vacaria,RS,158,647.3,659.9,False,False
+856,2605301,Exu,PE,202,647.4,657.6,False,False
+857,2502508,Boqueirão,PB,150,647.5,661.6,False,False
+858,1716109,Paraíso do Tocantins,TO,216,647.5,656.0,False,False
+859,2305902,Ipueiras,CE,142,647.5,678.5,False,False
+860,4102406,Bandeirantes,PR,181,647.6,622.5,False,False
+861,2409407,Pau dos Ferros,RN,615,647.7,665.0,False,False
+862,3552403,Sumaré,SP,426,647.7,633.3,False,False
+863,2302206,Beberibe,CE,201,647.7,643.3,False,False
+864,3304300,Rio Bonito,RJ,256,647.8,653.4,False,False
+865,1100098,Espigão D'Oeste,RO,68,647.8,618.2,False,False
+866,4215000,Rio Negrinho,SC,68,647.8,630.3,False,False
+867,5107602,Rondonópolis,MT,765,647.8,658.6,False,False
+868,3541000,Praia Grande,SP,634,647.9,620.5,False,False
+869,2305407,Icó,CE,275,647.9,620.4,False,False
+870,3118403,Conselheiro Pena,MG,67,647.9,640.9,False,False
+871,2612208,Salgueiro,PE,429,648.0,649.5,False,False
+872,2600054,Abreu e Lima,PE,353,648.1,618.0,False,False
+873,2312304,São Benedito,CE,333,648.1,679.9,False,False
+874,2516300,Sumé,PB,199,648.1,641.9,False,False
+875,5211206,Itapuranga,GO,124,648.2,690.6,False,False
+876,2516003,Solânea,PB,203,648.2,647.7,False,False
+877,2608503,Lagoa de Itaenga,PE,87,648.5,671.5,False,False
+878,1504208,Marabá,PA,1384,648.6,649.6,False,False
+879,2606002,Garanhuns,PE,1083,648.7,658.5,False,False
+880,3305109,São João de Meriti,RJ,962,648.7,631.8,False,False
+881,1100023,Ariquemes,RO,314,648.8,659.9,False,False
+882,4216909,São Lourenço do Oeste,SC,91,648.8,622.6,False,False
+883,2611002,Petrolândia,PE,242,648.8,620.7,False,False
+884,3302601,Mangaratiba,RJ,68,648.8,615.0,False,True
+885,2310258,Paraipaba,CE,138,648.9,644.9,False,False
+886,2609709,Orobó,PE,141,648.9,646.1,False,False
+887,3541307,Presidente Epitácio,SP,95,649.0,648.6,False,False
+888,3152006,Pompéu,MG,62,649.1,723.5,False,False
+889,2309607,Pacajus,CE,321,649.1,645.2,False,False
+890,3531407,Monte Aprazível,SP,114,649.1,643.5,False,False
+891,2807600,Umbaúba,SE,191,649.1,633.8,False,False
+892,2400208,Açu,RN,330,649.2,654.4,False,False
+893,3139607,Mantena,MG,104,649.2,644.0,False,False
+894,2907509,Catu,BA,199,649.3,655.9,False,False
+895,3169703,Turmalina,MG,145,649.4,656.8,False,False
+896,2604205,Catende,PE,167,649.4,633.9,False,False
+897,3541505,Presidente Venceslau,SP,119,649.5,645.5,False,False
+898,4307906,Farroupilha,RS,165,649.6,657.5,False,False
+899,3162955,São José da Lapa,MG,55,649.6,636.0,False,False
+900,2308005,Massapê,CE,171,649.6,638.7,False,False
+901,2906501,Candeias,BA,273,649.6,619.3,False,False
+902,2613107,São Caitano,PE,162,649.6,658.4,False,False
+903,3304805,São Fidélis,RJ,101,649.6,679.8,False,False
+904,2308500,Mombaça,CE,137,649.6,650.7,False,False
+905,3504206,Auriflama,SP,57,649.6,705.3,False,False
+906,3519071,Hortolândia,SP,495,649.6,634.4,False,False
+907,2602209,Bom Jardim,PE,176,649.7,700.9,False,False
+908,2805901,Riachuelo,SE,64,649.7,642.8,False,False
+909,3508405,Cabreúva,SP,82,649.8,669.8,False,False
+910,5107958,Tangará da Serra,MT,227,649.9,668.6,False,False
+911,3519709,Ibiúna,SP,122,649.9,643.1,False,False
+912,2608750,Lagoa Grande,PE,103,650.0,608.5,False,True
+913,2313906,Uruoca,CE,102,650.1,625.1,False,False
+914,2516904,Uiraúna,PB,158,650.1,660.6,False,False
+915,3540200,Pontal,SP,90,650.2,645.6,False,False
+916,2804508,Nossa Senhora da Glória,SE,265,650.2,657.1,False,False
+917,4212106,Palmitos,SC,81,650.2,639.5,False,False
+918,4322608,Venâncio Aires,RS,149,650.4,704.4,False,False
+919,4108304,Foz do Iguaçu,PR,1099,650.4,647.0,False,False
+920,3162708,São João do Paraíso,MG,110,650.4,682.5,False,False
+921,2306108,Irauçuba,CE,85,650.5,661.2,False,False
+922,4202800,Braço do Norte,SC,104,650.5,621.5,False,False
+923,2918001,Jequié,BA,809,650.5,663.6,False,False
+924,5214507,Nerópolis,GO,153,650.6,654.9,False,False
+925,2309409,Novo Oriente,CE,149,650.6,666.2,False,False
+926,3521804,Itaí,SP,85,650.6,660.7,False,False
+927,4313508,Osório,RS,180,650.6,680.6,False,False
+928,2300150,Acarape,CE,66,650.7,667.0,False,False
+929,4308904,Getúlio Vargas,RS,57,650.7,658.9,False,False
+930,5102504,Cáceres,MT,317,650.7,664.0,False,False
+931,2616308,Vicência,PE,96,650.7,648.8,False,False
+932,5107875,Sapezal,MT,80,650.8,652.2,False,False
+933,4210506,Maravilha,SC,185,650.9,666.3,False,False
+934,5220454,Senador Canedo,GO,361,650.9,657.8,False,False
+935,2512309,Princesa Isabel,PB,168,651.0,666.5,False,False
+936,2904605,Brumado,BA,338,651.1,675.1,False,False
+937,3522307,Itapetininga,SP,419,651.2,640.0,False,False
+938,2925303,Porto Seguro,BA,457,651.3,638.9,False,False
+939,3534609,Osvaldo Cruz,SP,93,651.3,681.9,False,False
+940,2101608,Barra do Corda,MA,291,651.5,674.2,False,False
+941,4316402,Rosário do Sul,RS,80,651.5,672.0,False,False
+942,2612505,Santa Cruz do Capibaribe,PE,452,651.6,654.3,False,False
+943,4217204,São Miguel do Oeste,SC,228,651.7,658.9,False,False
+944,5003702,Dourados,MS,723,651.7,659.1,False,False
+945,3534302,Orlândia,SP,207,651.8,687.1,False,False
+946,2512101,Pombal,PB,277,651.9,717.5,False,False
+947,3519600,Ibitinga,SP,142,651.9,648.7,False,False
+948,2306405,Itapipoca,CE,661,652.0,666.3,False,False
+949,1100114,Jaru,RO,183,652.1,645.8,False,False
+950,3513801,Diadema,SP,978,652.1,643.8,False,False
+951,2405603,Jardim de Piranhas,RN,57,652.1,710.5,False,False
+952,3555406,Ubatuba,SP,195,652.1,612.5,False,True
+953,3505609,Barrinha,SP,76,652.2,665.8,False,False
+954,2602100,Bom Conselho,PE,194,652.2,669.9,False,False
+955,2931350,Teixeira de Freitas,BA,589,652.2,664.3,False,False
+956,3518800,Guarulhos,SP,2737,652.3,644.7,False,False
+957,2804201,Monte Alegre de Sergipe,SE,67,652.4,688.7,False,False
+958,2207900,Pedro II,PI,231,652.4,667.8,False,False
+959,2408904,Parelhas,RN,235,652.4,660.5,False,False
+960,4204806,Curitibanos,SC,98,652.4,621.0,False,False
+961,3557006,Votorantim,SP,180,652.4,659.3,False,False
+962,2606804,Igarassu,PE,476,652.5,625.7,False,False
+963,2924009,Paulo Afonso,BA,554,652.5,654.5,False,False
+964,2205508,José de Freitas,PI,199,652.5,620.7,False,False
+965,2513703,Santa Rita,PB,429,652.6,637.7,False,False
+966,5210109,Ipameri,GO,70,652.6,667.4,False,False
+967,3538808,Piraju,SP,157,652.6,653.9,False,False
+968,3505708,Barueri,SP,1027,652.6,652.9,False,False
+969,2301000,Aquiraz,CE,253,652.7,670.0,False,False
+970,2309003,Mucambo,CE,172,652.7,673.6,False,False
+971,3123908,Entre Rios de Minas,MG,123,652.8,677.9,False,False
+972,2804805,Nossa Senhora do Socorro,SE,525,652.8,646.3,False,False
+973,3137809,Lambari,MG,83,652.8,690.8,False,False
+974,2609501,Nazaré da Mata,PE,244,652.9,667.0,False,False
+975,3529401,Mauá,SP,753,653.0,638.6,False,False
+976,3130903,Inhapim,MG,104,653.0,725.8,False,False
+977,4313904,Panambi,RS,169,653.0,620.9,False,False
+978,4211306,Navegantes,SC,211,653.0,649.8,False,False
+979,2606408,Gravatá,PE,399,653.1,658.6,False,False
+980,4206504,Guaramirim,SC,59,653.1,660.7,False,False
+981,2910800,Feira de Santana,BA,2808,653.1,657.9,False,False
+982,2100055,Açailândia,MA,375,653.2,649.1,False,False
+983,5221858,Valparaíso de Goiás,GO,536,653.2,617.8,False,False
+984,2611903,Rio Formoso,PE,122,653.3,607.4,False,True
+985,2305357,Icapuí,CE,82,653.4,641.5,False,False
+986,3303005,Miracema,RJ,105,653.4,719.8,False,False
+987,3515103,Embu-Guaçu,SP,163,653.4,633.3,False,False
+988,2614501,Surubim,PE,452,653.5,694.1,False,False
+989,5214606,Niquelândia,GO,83,653.5,693.0,False,False
+990,2918407,Juazeiro,BA,902,653.6,643.7,False,False
+991,2302602,Camocim,CE,268,653.8,636.9,False,False
+992,2910727,Eunápolis,BA,433,653.8,639.8,False,False
+993,4219507,Xanxerê,SC,190,653.8,647.5,False,False
+994,2305308,Ibiapina,CE,108,653.9,661.3,False,False
+995,3520442,Ilha Solteira,SP,90,653.9,669.1,False,False
+996,4112009,Jaguariaíva,PR,88,653.9,600.7,False,True
+997,3138609,Lima Duarte,MG,68,654.0,647.1,False,False
+998,2312700,Senador Pompeu,CE,112,654.0,674.3,False,False
+999,4219309,Videira,SC,157,654.0,668.7,False,False
+1000,3170800,Várzea da Palma,MG,75,654.1,629.3,False,False
+1001,2613503,São José do Belmonte,PE,175,654.2,670.7,False,False
+1002,2807402,Tobias Barreto,SE,278,654.2,677.3,False,False
+1003,5221403,Trindade,GO,605,654.3,651.7,False,False
+1004,4317608,Santo Antônio da Patrulha,RS,101,654.5,619.4,False,False
+1005,2301703,Aurora,CE,106,654.5,741.1,False,False
+1006,3306107,Valença,RJ,234,654.6,674.2,False,False
+1007,2303907,Chaval,CE,66,654.8,690.6,False,False
+1008,4207304,Imbituba,SC,121,654.9,685.3,False,False
+1009,2300705,Alto Santo,CE,70,654.9,623.1,False,False
+1010,1100122,Ji-Paraná,RO,385,655.1,655.0,False,False
+1011,5200308,Alexânia,GO,66,655.1,690.9,False,False
+1012,4304705,Carazinho,RS,247,655.1,642.4,False,False
+1013,4217709,Sombrio,SC,130,655.2,664.0,False,False
+1014,2406106,Jucurutu,RN,102,655.2,648.0,False,False
+1015,2927408,Salvador,BA,9982,655.3,654.7,False,False
+1016,2903201,Barreiras,BA,1088,655.3,669.7,False,False
+1017,2300309,Acopiara,CE,198,655.4,657.9,False,False
+1018,4311809,Marau,RS,221,655.4,675.7,False,False
+1019,4307500,Espumoso,RS,136,655.4,678.4,False,False
+1020,2614600,Tabira,PE,229,655.4,682.3,False,False
+1021,3510005,Cândido Mota,SP,50,655.4,660.8,False,False
+1022,4303905,Campo Bom,RS,143,655.5,630.2,False,False
+1023,3300605,Bom Jesus do Itabapoana,RJ,184,655.6,685.5,False,False
+1024,2313351,Tejuçuoca,CE,103,655.7,636.7,False,False
+1025,4321808,Três de Maio,RS,140,655.8,682.3,False,False
+1026,3503901,Arujá,SP,277,655.8,647.1,False,False
+1027,2503001,Caaporã,PB,75,655.9,641.9,False,False
+1028,2509701,Monteiro,PB,217,655.9,667.4,False,False
+1029,3108008,Bom Sucesso,MG,111,656.0,656.6,False,False
+1030,2304004,Coreaú,CE,114,656.1,670.4,False,False
+1031,2601102,Araripina,PE,418,656.1,696.8,False,False
+1032,3551702,Sertãozinho,SP,341,656.2,668.3,False,False
+1033,3552809,Taboão da Serra,SP,894,656.2,647.6,False,False
+1034,3124005,Ervália,MG,69,656.2,663.8,False,False
+1035,2305001,Guaraciaba do Norte,CE,250,656.3,701.2,False,False
+1036,2309508,Orós,CE,60,656.3,636.3,False,False
+1037,3509601,Campo Limpo Paulista,SP,187,656.4,648.3,False,False
+1038,3303708,Paraíba do Sul,RJ,112,656.4,665.5,False,False
+1039,2601409,Barreiros,PE,233,656.4,635.9,False,False
+1040,3124104,Esmeraldas,MG,71,656.5,629.0,False,False
+1041,3542602,Registro,SP,238,656.6,647.7,False,False
+1042,4205506,Fraiburgo,SC,75,656.7,684.3,False,False
+1043,2501500,Bananeiras,PB,211,656.7,657.2,False,False
+1044,2504405,Conceição,PB,156,656.7,665.0,False,False
+1045,3302106,Itaocara,RJ,134,656.8,688.4,False,False
+1046,5204508,Caldas Novas,GO,333,656.8,641.9,False,False
+1047,2600708,Aliança,PE,105,656.8,666.5,False,False
+1048,4304804,Carlos Barbosa,RS,97,656.9,668.5,False,False
+1049,4218004,Tijucas,SC,113,656.9,647.4,False,False
+1050,2803609,Laranjeiras,SE,62,657.0,588.4,False,True
+1051,3172004,Visconde do Rio Branco,MG,135,657.1,692.1,False,False
+1052,3533908,Olímpia,SP,144,657.1,650.8,False,False
+1053,2310506,Pedra Branca,CE,153,657.1,653.7,False,False
+1054,1505536,Parauapebas,PA,932,657.1,649.7,False,False
+1055,2914802,Itabuna,BA,913,657.2,662.0,False,False
+1056,2303808,Cedro,CE,93,657.2,675.9,False,False
+1057,3530300,Mirassol,SP,145,657.3,666.1,False,False
+1058,4304606,Canoas,RS,1008,657.3,648.5,False,False
+1059,2308708,Morada Nova,CE,217,657.3,692.1,False,False
+1060,2507101,Itapororoca,PB,91,657.4,639.1,False,False
+1061,2305803,Ipu,CE,246,657.6,660.9,False,False
+1062,2803005,Itabaianinha,SE,179,657.6,657.7,False,False
+1063,1100155,Ouro Preto do Oeste,RO,105,657.6,651.8,False,False
+1064,5219308,Santa Helena de Goiás,GO,97,657.7,644.9,False,False
+1065,3301900,Itaboraí,RJ,506,657.7,664.1,False,False
+1066,5100201,Água Boa,MT,66,657.7,645.8,False,False
+1067,5218003,Porangatu,GO,212,657.9,669.2,False,False
+1068,3550100,São Manuel,SP,77,657.9,668.1,False,False
+1069,3144706,Nova Era,MG,103,657.9,633.8,False,False
+1070,4318705,São Leopoldo,RS,444,658.0,659.8,False,False
+1071,2403103,Currais Novos,RN,423,658.1,660.9,False,False
+1072,2804003,Maruim,SE,97,658.1,642.7,False,False
+1073,2615706,Triunfo,PE,141,658.1,668.9,False,False
+1074,4308607,Garibaldi,RS,70,658.4,698.6,False,False
+1075,2500700,São João do Rio do Peixe,PB,167,658.4,643.0,False,False
+1076,3305505,Saquarema,RJ,130,658.4,640.3,False,False
+1077,2310308,Parambu,CE,94,658.4,639.4,False,False
+1078,2516201,Sousa,PB,686,658.6,678.4,False,False
+1079,2609402,Moreno,PE,264,658.6,656.4,False,False
+1080,3200805,Baixo Guandu,ES,76,658.6,650.3,False,False
+1081,2613909,Serra Talhada,PE,443,658.8,662.7,False,False
+1082,5218904,Rubiataba,GO,82,658.8,706.6,False,False
+1083,3557105,Votuporanga,SP,316,658.8,673.7,False,False
+1084,3528403,Mairinque,SP,113,658.8,680.4,False,False
+1085,2700300,Arapiraca,AL,1703,658.9,664.2,False,False
+1086,3102803,Andrelândia,MG,119,659.0,634.8,False,False
+1087,3529203,Martinópolis,SP,52,659.1,620.8,False,False
+1088,3142908,Monte Azul,MG,124,659.1,659.8,False,False
+1089,2607901,Jaboatão dos Guararapes,PE,1735,659.1,648.0,False,False
+1090,5107925,Sorriso,MT,291,659.1,647.4,False,False
+1091,2613008,São Bento do Una,PE,129,659.2,659.8,False,False
+1092,3162807,São João Evangelista,MG,143,659.2,694.7,False,False
+1093,4205704,Garopaba,SC,94,659.2,636.8,False,False
+1094,3162005,São Gonçalo do Sapucaí,MG,75,659.2,647.5,False,False
+1095,4203808,Canoinhas,SC,174,659.2,653.3,False,False
+1096,3144102,Muzambinho,MG,162,659.2,654.2,False,False
+1097,4307005,Erechim,RS,491,659.3,679.5,False,False
+1098,4316907,Santa Maria,RS,1628,659.3,665.8,False,False
+1099,2601904,Bezerros,PE,255,659.4,667.4,False,False
+1100,3534708,Ourinhos,SP,294,659.4,669.5,False,False
+1101,5002704,Campo Grande,MS,2836,659.5,658.1,False,False
+1102,2309201,Nova Olinda,CE,82,659.6,634.9,False,False
+1103,3528502,Mairiporã,SP,146,659.6,648.2,False,False
+1104,2101400,Balsas,MA,568,659.6,656.7,False,False
+1105,3543303,Ribeirão Pires,SP,241,659.6,665.3,False,False
+1106,3502101,Andradina,SP,182,659.6,676.8,False,False
+1107,1501402,Belém,PA,8894,659.7,662.0,False,False
+1108,3135100,Janaúba,MG,358,659.8,650.8,False,False
+1109,3154606,Ribeirão das Neves,MG,520,659.8,632.1,False,False
+1110,4219705,Xaxim,SC,64,659.9,690.6,False,False
+1111,3116605,Cláudio,MG,122,659.9,709.7,False,False
+1112,3555000,Tupã,SP,206,659.9,678.4,False,False
+1113,3202108,Ecoporanga,ES,53,660.1,613.2,False,True
+1114,2307502,Lavras da Mangabeira,CE,148,660.2,693.5,False,False
+1115,2313302,Tauá,CE,245,660.2,664.4,False,False
+1116,3111606,Campos Gerais,MG,124,660.4,674.8,False,False
+1117,3529302,Matão,SP,153,660.4,663.4,False,False
+1118,5107040,Primavera do Leste,MT,189,660.5,654.7,False,False
+1119,2610608,Paudalho,PE,162,660.6,653.6,False,False
+1120,2111300,São Luís,MA,6846,660.6,660.9,False,False
+1121,4317202,Santa Rosa,RS,401,660.6,695.5,False,False
+1122,3509007,Caieiras,SP,301,660.7,641.0,False,False
+1123,2307254,Jijoca de Jericoacoara,CE,170,660.7,718.7,False,False
+1124,3171204,Vespasiano,MG,252,660.7,636.8,False,False
+1125,4311304,Lagoa Vermelha,RS,124,660.8,692.4,False,False
+1126,4203006,Caçador,SC,104,660.8,607.3,False,True
+1127,2804607,Nossa Senhora das Dores,SE,185,660.8,682.7,False,False
+1128,2302305,Bela Cruz,CE,84,660.9,710.5,False,False
+1129,2301307,Araripe,CE,135,660.9,684.0,False,False
+1130,2307403,Jucás,CE,124,661.0,682.1,False,False
+1131,2303709,Caucaia,CE,1084,661.0,641.5,False,False
+1132,4304408,Canela,RS,169,661.0,648.3,False,False
+1133,2805703,Propriá,SE,447,661.1,652.1,False,False
+1134,3303203,Nilópolis,RJ,564,661.1,642.8,False,False
+1135,5213806,Morrinhos,GO,193,661.1,696.6,False,False
+1136,3545803,Santa Bárbara d'Oeste,SP,300,661.2,675.5,False,False
+1137,2303501,Cascavel,CE,261,661.4,657.7,False,False
+1138,3516705,Garça,SP,107,661.4,672.9,False,False
+1139,3157807,Santa Luzia,MG,558,661.4,644.8,False,False
+1140,2303204,Caririaçu,CE,133,661.4,714.0,False,False
+1141,4104808,Cascavel,PR,975,661.4,659.0,False,False
+1142,3301876,Iguaba Grande,RJ,80,661.5,657.8,False,False
+1143,3121605,Diamantina,MG,431,661.6,671.5,False,False
+1144,1502400,Castanhal,PA,942,661.7,673.2,False,False
+1145,3533502,Novo Horizonte,SP,119,661.7,723.7,False,False
+1146,2302008,Barro,CE,113,661.7,677.2,False,False
+1147,5213087,Minaçu,GO,101,661.8,654.3,False,False
+1148,2501807,Bayeux,PB,312,661.8,631.2,False,False
+1149,3201605,Conceição da Barra,ES,64,661.8,640.0,False,False
+1150,3538006,Pindamonhangaba,SP,344,661.8,674.8,False,False
+1151,2806701,São Cristóvão,SE,390,661.8,652.3,False,False
+1152,2309706,Pacatuba,CE,222,661.8,627.1,False,False
+1153,2310704,Pentecoste,CE,201,661.9,657.7,False,False
+1154,2301604,Assaré,CE,166,662.1,659.5,False,False
+1155,5107909,Sinop,MT,537,662.1,678.5,False,False
+1156,5210406,Itaberaí,GO,150,662.1,686.4,False,False
+1157,5210901,Itapaci,GO,175,662.2,645.8,False,False
+1158,3556404,Vargem Grande do Sul,SP,76,662.2,675.0,False,False
+1159,3533403,Nova Odessa,SP,119,662.3,684.5,False,False
+1160,2807105,Simão Dias,SE,188,662.3,689.7,False,False
+1161,5220108,São Luís de Montes Belos,GO,249,662.5,665.9,False,False
+1162,3510401,Capivari,SP,116,662.6,649.3,False,False
+1163,4321204,Taquara,RS,185,662.6,665.2,False,False
+1164,2513406,Santa Luzia,PB,154,662.6,654.8,False,False
+1165,3304904,São Gonçalo,RJ,1834,662.6,669.4,False,False
+1166,2303105,Cariré,CE,151,662.7,702.6,False,False
+1167,3524105,Ituverava,SP,212,662.7,672.3,False,False
+1168,2608909,Limoeiro,PE,390,662.7,701.4,False,False
+1169,1502152,Canaã dos Carajás,PA,214,662.8,668.3,False,False
+1170,2610707,Paulista,PE,1182,662.8,659.7,False,False
+1171,2511400,Picuí,PB,171,662.8,645.0,False,False
+1172,3202801,Itapemirim,ES,96,662.9,651.5,False,False
+1173,2616407,Vitória de Santo Antão,PE,531,662.9,673.2,False,False
+1174,4313409,Novo Hamburgo,RS,451,663.0,641.9,False,False
+1175,3144300,Nanuque,MG,120,663.0,640.5,False,False
+1176,3203502,Montanha,ES,97,663.1,647.2,False,False
+1177,3506508,Birigui,SP,291,663.2,670.9,False,False
+1178,2304350,Forquilha,CE,135,663.2,644.4,False,False
+1179,2302503,Brejo Santo,CE,331,663.2,647.3,False,False
+1180,2604106,Caruaru,PE,1641,663.2,680.2,False,False
+1181,4313300,Nova Prata,RS,136,663.2,666.6,False,False
+1182,4210100,Mafra,SC,170,663.3,653.3,False,False
+1183,1100304,Vilhena,RO,325,663.3,635.9,False,False
+1184,2313401,Tianguá,CE,402,663.3,669.0,False,False
+1185,2606200,Goiana,PE,297,663.3,661.4,False,False
+1186,3531308,Monte Alto,SP,105,663.4,698.5,False,False
+1187,2506004,Esperança,PB,222,663.5,668.3,False,False
+1188,3503802,Artur Nogueira,SP,141,663.6,630.5,False,False
+1189,4202305,Biguaçu,SC,224,663.6,671.1,False,False
+1190,3535507,Paraguaçu Paulista,SP,107,663.7,676.8,False,False
+1191,1709500,Gurupi,TO,298,663.8,666.2,False,False
+1192,3169604,Tupaciguara,MG,84,663.8,657.6,False,False
+1193,3107307,Bocaiúva,MG,231,663.8,662.7,False,False
+1194,3505906,Batatais,SP,206,663.8,651.7,False,False
+1195,4310207,Ijuí,RS,375,663.9,681.3,False,False
+1196,2504306,Catolé do Rocha,PB,304,663.9,715.8,False,False
+1197,2801009,Campo do Brito,SE,144,664.0,700.4,False,False
+1198,3130606,Inconfidentes,MG,87,664.0,691.3,False,False
+1199,2611101,Petrolina,PE,1745,664.1,660.1,False,False
+1200,5208004,Formosa,GO,448,664.1,631.0,False,False
+1201,5209101,Goiatuba,GO,77,664.2,620.0,False,False
+1202,3302205,Itaperuna,RJ,379,664.4,705.5,False,False
+1203,2308401,Missão Velha,CE,126,664.4,692.4,False,False
+1204,1100049,Cacoal,RO,339,664.5,641.2,False,False
+1205,4208401,Itapiranga,SC,83,664.5,691.6,False,False
+1206,4213609,Porto União,SC,81,664.6,649.4,False,False
+1207,3204104,Pinheiros,ES,62,664.8,665.5,False,False
+1208,3511508,Cerquilho,SP,67,665.1,687.8,False,False
+1209,2306009,Iracema,CE,61,665.1,664.3,False,False
+1210,2307106,Jardim,CE,202,665.2,658.0,False,False
+1211,2601706,Belo Jardim,PE,282,665.3,662.7,False,False
+1212,2313005,Solonópole,CE,81,665.5,636.0,False,False
+1213,3129806,Ibirité,MG,379,665.6,653.4,False,False
+1214,5206206,Cristalina,GO,125,665.8,644.0,False,False
+1215,5208608,Goianésia,GO,294,665.8,696.8,False,False
+1216,2503209,Cabedelo,PB,264,665.8,649.8,False,False
+1217,5221601,Uruaçu,GO,256,665.8,666.3,False,False
+1218,5220603,Silvânia,GO,177,665.9,696.3,False,False
+1219,3160702,Santos Dumont,MG,100,665.9,630.4,False,False
+1220,3171006,Vazante,MG,87,666.0,687.4,False,False
+1221,5218508,Quirinópolis,GO,183,666.1,672.1,False,False
+1222,2800670,Boquim,SE,201,666.2,685.8,False,False
+1223,4207502,Indaial,SC,100,666.2,683.0,False,False
+1224,2311108,Porteiras,CE,110,666.3,645.5,False,False
+1225,3152105,Ponte Nova,MG,419,666.4,664.3,False,False
+1226,3524808,Jales,SP,174,666.4,678.4,False,False
+1227,4305108,Caxias do Sul,RS,1033,666.5,668.8,False,False
+1228,2400109,Acari,RN,93,666.6,706.2,False,False
+1229,4309407,Guaporé,RS,97,666.6,660.0,False,False
+1230,4214805,Rio do Sul,SC,284,666.7,683.8,False,False
+1231,3505302,Barra Bonita,SP,101,666.7,686.7,False,False
+1232,3140704,Mateus Leme,MG,63,666.8,675.9,False,False
+1233,3119302,Coromandel,MG,96,667.0,648.3,False,False
+1234,5103403,Cuiabá,MT,2398,667.0,667.2,False,False
+1235,2307650,Maracanaú,CE,806,667.1,650.6,False,False
+1236,2307700,Maranguape,CE,371,667.1,636.1,False,False
+1237,2506905,Itabaiana,PB,299,667.2,667.4,False,False
+1238,3201308,Cariacica,ES,899,667.3,649.2,False,False
+1239,3205101,Viana,ES,182,667.3,635.8,False,False
+1240,4204301,Concórdia,SC,215,667.4,705.9,False,False
+1241,3524006,Itupeva,SP,131,667.5,667.6,False,False
+1242,2503704,Cajazeiras,PB,499,667.5,681.0,False,False
+1243,3526704,Leme,SP,179,667.5,692.6,False,False
+1244,3120904,Curvelo,MG,313,667.6,681.6,False,False
+1245,3524402,Jacareí,SP,582,667.6,657.5,False,False
+1246,2306256,Itaitinga,CE,118,667.6,638.5,False,False
+1247,3522703,Itápolis,SP,90,667.6,654.4,False,False
+1248,2704302,Maceió,AL,4582,667.7,669.4,False,False
+1249,3306008,Três Rios,RJ,257,667.8,669.6,False,False
+1250,3107109,Boa Esperança,MG,207,667.8,667.4,False,False
+1251,4113700,Londrina,PR,1627,668.1,657.5,False,False
+1252,3114303,Carmo do Paranaíba,MG,82,668.2,674.9,False,False
+1253,3205002,Serra,ES,1423,668.2,659.2,False,False
+1254,3146107,Ouro Preto,MG,304,668.2,663.3,False,False
+1255,2309300,Nova Russas,CE,227,668.3,659.9,False,False
+1256,3530706,Mogi Guaçu,SP,250,668.3,668.7,False,False
+1257,3546405,Santa Cruz do Rio Pardo,SP,120,668.3,666.2,False,False
+1258,2310852,Pindoretama,CE,106,668.3,633.2,False,False
+1259,2605103,Custódia,PE,104,668.3,677.7,False,False
+1260,4316808,Santa Cruz do Sul,RS,452,668.4,698.0,False,False
+1261,3552205,Sorocaba,SP,1651,668.5,657.7,False,False
+1262,3550308,São Paulo,SP,24985,668.6,672.5,False,False
+1263,5210000,Inhumas,GO,215,668.6,678.5,False,False
+1264,3552106,Socorro,SP,92,668.6,670.0,False,False
+1265,2604007,Carpina,PE,366,668.7,681.7,False,False
+1266,5213103,Mineiros,GO,180,668.7,683.2,False,False
+1267,2301109,Aracati,CE,378,668.7,639.1,False,False
+1268,2308104,Mauriti,CE,186,669.0,670.9,False,False
+1269,4211900,Palhoça,SC,585,669.0,660.2,False,False
+1270,3304706,Santo Antônio de Pádua,RJ,143,669.0,678.2,False,False
+1271,2307007,Jaguaruana,CE,165,669.0,702.1,False,False
+1272,4312401,Montenegro,RS,238,669.0,672.2,False,False
+1273,2310209,Paracuru,CE,171,669.1,652.3,False,False
+1274,3100203,Abaeté,MG,106,669.1,683.4,False,False
+1275,4314902,Porto Alegre,RS,4679,669.1,666.7,False,False
+1276,3525102,Jardinópolis,SP,92,669.1,697.4,False,False
+1277,5205406,Ceres,GO,282,669.2,687.9,False,False
+1278,2402006,Caicó,RN,512,669.3,680.1,False,False
+1279,3136652,Juatuba,MG,60,669.4,654.0,False,False
+1280,3113305,Carangola,MG,253,669.6,682.8,False,False
+1281,2611804,Ribeirão,PE,162,669.6,648.9,False,False
+1282,3109006,Brumadinho,MG,160,669.8,668.0,False,False
+1283,3549706,São José do Rio Pardo,SP,135,669.8,682.5,False,False
+1284,4306809,Encantado,RS,109,669.8,704.2,False,False
+1285,2803500,Lagarto,SE,542,669.8,685.8,False,False
+1286,2802106,Estância,SE,262,670.0,668.9,False,False
+1287,3151206,Pirapora,MG,207,670.3,641.7,False,False
+1288,4215802,São Bento do Sul,SC,204,670.4,683.5,False,False
+1289,3147402,Paraopeba,MG,86,670.4,664.7,False,False
+1290,3300100,Angra dos Reis,RJ,375,670.4,644.9,False,False
+1291,3300704,Cabo Frio,RJ,642,670.6,673.3,False,False
+1292,2506301,Guarabira,PB,598,670.7,675.4,False,False
+1293,2312007,Santana do Acaraú,CE,131,670.7,675.0,False,False
+1294,2305506,Iguatu,CE,450,670.7,670.1,False,False
+1295,2306900,Jaguaribe,CE,176,670.7,673.9,False,False
+1296,3541604,Promissão,SP,70,670.7,657.4,False,False
+1297,3501905,Amparo,SP,217,670.8,680.0,False,False
+1298,3115508,Caxambu,MG,159,671.0,686.2,False,False
+1299,3504503,Avaré,SP,244,671.1,670.4,False,False
+1300,5200134,Acreúna,GO,86,671.2,654.4,False,False
+1301,4314100,Passo Fundo,RS,595,671.2,691.4,False,False
+1302,3525300,Jaú,SP,580,671.3,704.0,False,False
+1303,2511301,Piancó,PB,163,671.3,737.2,False,False
+1304,3537107,Pedreira,SP,54,671.4,668.5,False,False
+1305,3200409,Anchieta,ES,166,671.6,690.4,False,False
+1306,2606101,Glória do Goitá,PE,125,671.7,663.8,False,False
+1307,4208906,Jaraguá do Sul,SC,356,671.7,662.4,False,False
+1308,3168002,Taiobeiras,MG,171,671.8,696.1,False,False
+1309,4321451,Teutônia,RS,87,671.9,705.1,False,False
+1310,5217401,Pires do Rio,GO,153,671.9,670.1,False,False
+1311,3306206,Vassouras,RJ,127,672.0,685.0,False,False
+1312,3527306,Louveira,SP,85,672.0,686.4,False,False
+1313,3145208,Nova Serrana,MG,184,672.0,659.1,False,False
+1314,4306403,Dois Irmãos,RS,78,672.1,691.3,False,False
+1315,2314003,Várzea Alegre,CE,204,672.1,646.8,False,False
+1316,3508504,Caçapava,SP,199,672.2,659.1,False,False
+1317,3134202,Ituiutaba,MG,441,672.2,655.7,False,False
+1318,3524709,Jaguariúna,SP,214,672.3,679.1,False,False
+1319,4209300,Lages,SC,370,672.4,667.4,False,False
+1320,4201406,Araranguá,SC,238,672.4,659.1,False,False
+1321,4202909,Brusque,SC,229,672.4,657.6,False,False
+1322,3164704,São Sebastião do Paraíso,MG,257,672.4,678.9,False,False
+1323,3203320,Marataízes,ES,135,672.5,679.3,False,False
+1324,2403251,Parnamirim,RN,894,672.7,656.1,False,False
+1325,2401008,Apodi,RN,234,672.8,687.4,False,False
+1326,3523909,Itu,SP,302,672.8,671.7,False,False
+1327,3549409,São Joaquim da Barra,SP,170,672.8,729.6,False,False
+1328,3504107,Atibaia,SP,419,672.8,657.8,False,False
+1329,2313955,Varjota,CE,150,672.8,691.6,False,False
+1330,3200904,Barra de São Francisco,ES,135,672.8,657.8,False,False
+1331,2304301,Farias Brito,CE,92,673.0,650.9,False,False
+1332,3540606,Porto Feliz,SP,86,673.0,681.6,False,False
+1333,3140001,Mariana,MG,262,673.1,658.3,False,False
+1334,3526803,Lençóis Paulista,SP,165,673.1,696.7,False,False
+1335,3530607,Mogi das Cruzes,SP,1118,673.2,670.6,False,False
+1336,5211909,Jataí,GO,465,673.2,688.6,False,False
+1337,4211702,Orleans,SC,76,673.2,710.5,False,False
+1338,3513009,Cotia,SP,630,673.3,655.4,False,False
+1339,3504008,Assis,SP,333,673.3,684.4,False,False
+1340,3127107,Frutal,MG,184,673.3,650.1,False,False
+1341,3162104,São Gotardo,MG,174,673.4,685.7,False,False
+1342,2605202,Escada,PE,194,673.4,660.3,False,False
+1343,2609600,Olinda,PE,1330,673.4,663.5,False,False
+1344,3200201,Alegre,ES,153,673.6,663.8,False,False
+1345,3502903,Araçoiaba da Serra,SP,65,673.8,643.1,False,False
+1346,3136306,João Pinheiro,MG,111,673.8,663.1,False,False
+1347,2306553,Itarema,CE,151,674.0,677.2,False,False
+1348,3556453,Vargem Grande Paulista,SP,148,674.0,638.2,False,False
+1349,3302700,Maricá,RJ,525,674.0,658.3,False,False
+1350,3168606,Teófilo Otoni,MG,565,674.1,664.5,False,False
+1351,3514403,Dracena,SP,201,674.1,682.5,False,False
+1352,5201405,Aparecida de Goiânia,GO,1438,674.1,664.2,False,False
+1353,3203908,Nova Venécia,ES,167,674.1,686.5,False,False
+1354,3554508,Tietê,SP,122,674.2,679.2,False,False
+1355,5300108,Brasília,DF,10652,674.2,673.7,False,False
+1356,3507605,Bragança Paulista,SP,429,674.2,667.6,False,False
+1357,4106902,Curitiba,PR,5786,674.3,673.6,False,False
+1358,3534401,Osasco,SP,1847,674.4,670.3,False,False
+1359,3530102,Mirandópolis,SP,67,674.4,719.1,False,False
+1360,2308302,Milagres,CE,156,674.6,672.8,False,False
+1361,3527207,Lorena,SP,195,674.7,685.5,False,False
+1362,2312205,Santa Quitéria,CE,188,674.8,647.8,False,False
+1363,2313609,Ubajara,CE,145,674.8,680.1,False,False
+1364,3143104,Monte Carmelo,MG,173,674.9,684.3,False,False
+1365,3522604,Itapira,SP,149,674.9,680.4,False,False
+1366,3530508,Mococa,SP,184,675.0,697.5,False,False
+1367,3550605,São Roque,SP,200,675.0,676.6,False,False
+1368,3113404,Caratinga,MG,476,675.1,692.9,False,False
+1369,2914604,Irecê,BA,502,675.1,696.1,False,False
+1370,3143906,Muriaé,MG,448,675.1,695.4,False,False
+1371,3537305,Penápolis,SP,158,675.2,670.1,False,False
+1372,3526902,Limeira,SP,579,675.2,680.3,False,False
+1373,3117504,Conceição do Mato Dentro,MG,68,675.2,627.9,False,False
+1374,3553708,Taquaritinga,SP,85,675.2,690.6,False,False
+1375,3516200,Franca,SP,891,675.4,696.7,False,False
+1376,3548708,São Bernardo do Campo,SP,1983,675.5,682.5,False,False
+1377,3525706,José Bonifácio,SP,130,675.5,685.2,False,False
+1378,3203007,Iúna,ES,167,675.6,679.8,False,False
+1379,3202306,Guaçuí,ES,115,675.7,673.2,False,False
+1380,3300209,Araruama,RJ,304,675.9,666.1,False,False
+1381,3554003,Tatuí,SP,260,675.9,642.9,False,False
+1382,3128006,Guanhães,MG,141,675.9,641.8,False,False
+1383,3518206,Guararapes,SP,79,676.0,659.2,False,False
+1384,4313201,Nova Petrópolis,RS,76,676.1,688.4,False,False
+1385,3507001,Boituva,SP,161,676.2,682.6,False,False
+1386,1721000,Palmas,TO,1327,676.2,682.3,False,False
+1387,3204054,Pedro Canário,ES,69,676.3,648.7,False,False
+1388,3105103,Bambuí,MG,86,676.4,700.2,False,False
+1389,3547304,Santana de Parnaíba,SP,445,676.5,674.1,False,False
+1390,2507002,Itaporanga,PB,252,676.5,664.8,False,False
+1391,2408003,Mossoró,RN,1492,676.5,688.0,False,False
+1392,2307809,Marco,CE,209,676.6,704.8,False,False
+1393,3200102,Afonso Cláudio,ES,75,676.6,694.1,False,False
+1394,3543907,Rio Claro,SP,427,676.7,684.1,False,False
+1395,3517406,Guaíra,SP,110,676.8,666.5,False,False
+1396,3541406,Presidente Prudente,SP,979,676.9,676.9,False,False
+1397,4216206,São Francisco do Sul,SC,105,677.0,660.6,False,False
+1398,3301306,Casimiro de Abreu,RJ,75,677.1,642.7,False,False
+1399,4310801,Ivoti,RS,73,677.1,700.3,False,False
+1400,3203205,Linhares,ES,497,677.1,687.1,False,False
+1401,4307807,Estrela,RS,71,677.2,687.6,False,False
+1402,3539301,Pirassununga,SP,271,677.2,674.5,False,False
+1403,4209003,Joaçaba,SC,232,677.2,673.4,False,False
+1404,3141108,Matozinhos,MG,88,677.4,651.4,False,False
+1405,4309605,Horizontina,RS,59,677.5,664.4,False,False
+1406,3500709,Agudos,SP,74,677.5,699.7,False,False
+1407,2307601,Limoeiro do Norte,CE,335,677.6,713.6,False,False
+1408,2510808,Patos,PB,902,677.6,680.7,False,False
+1409,5211503,Itumbiara,GO,363,678.0,680.7,False,False
+1410,4302105,Bento Gonçalves,RS,253,678.0,682.9,False,False
+1411,3304557,Rio de Janeiro,RJ,16877,678.0,678.9,False,False
+1412,3170404,Unaí,MG,284,678.0,650.5,False,False
+1413,2919553,Luís Eduardo Magalhães,BA,335,678.1,639.9,False,False
+1414,3301009,Campos dos Goytacazes,RJ,1216,678.1,676.1,False,False
+1415,4209409,Laguna,SC,99,678.2,690.9,False,False
+1416,3104304,Areado,MG,96,678.2,709.4,False,False
+1417,3204906,São Mateus,ES,384,678.3,686.1,False,False
+1418,3203403,Mimoso do Sul,ES,93,678.4,708.4,False,False
+1419,3515509,Fernandópolis,SP,283,678.4,701.9,False,False
+1420,4208302,Itapema,SC,215,678.5,664.8,False,False
+1421,2208007,Picos,PI,1194,678.5,680.2,False,False
+1422,3513405,Cruzeiro,SP,271,678.6,684.8,False,False
+1423,2207702,Parnaíba,PI,1113,678.6,682.4,False,False
+1424,3110004,Caeté,MG,110,678.7,705.5,False,False
+1425,3546603,Santa Fé do Sul,SP,91,678.8,697.1,False,False
+1426,2933307,Vitória da Conquista,BA,2039,678.8,682.9,False,False
+1427,3162906,São João Nepomuceno,MG,135,678.8,677.6,False,False
+1428,4208203,Itajaí,SC,519,678.8,674.8,False,False
+1429,4322806,Veranópolis,RS,68,678.9,740.3,False,False
+1430,4218202,Timbó,SC,93,678.9,659.8,False,False
+1431,3305208,São Pedro da Aldeia,RJ,201,679.0,665.3,False,False
+1432,2105302,Imperatriz,MA,1628,679.0,672.6,False,False
+1433,3300308,Barra do Piraí,RJ,146,679.1,724.9,False,False
+1434,3146008,Ouro Fino,MG,81,679.3,674.8,False,False
+1435,3105608,Barbacena,MG,724,679.3,674.6,False,False
+1436,3139409,Manhuaçu,MG,518,679.4,697.1,False,False
+1437,2313104,Tabuleiro do Norte,CE,148,679.4,697.2,False,False
+1438,4204202,Chapecó,SC,626,679.6,688.7,False,False
+1439,3104908,Baependi,MG,75,679.8,676.0,False,False
+1440,2513901,São Bento,PB,164,679.9,694.1,False,False
+1441,5205109,Catalão,GO,588,679.9,678.0,False,False
+1442,3106705,Betim,MG,938,680.0,659.9,False,False
+1443,3302403,Macaé,RJ,763,680.1,684.7,False,False
+1444,3523404,Itatiba,SP,215,680.2,678.4,False,False
+1445,3205069,Venda Nova do Imigrante,ES,144,680.2,702.4,False,False
+1446,3204609,Santa Teresa,ES,112,680.4,702.7,False,False
+1447,3304524,Rio das Ostras,RJ,661,680.5,675.0,False,False
+1448,3101904,Alpinópolis,MG,125,680.6,717.8,False,False
+1449,3510807,Casa Branca,SP,55,680.7,682.5,False,False
+1450,3138401,Leopoldina,MG,165,680.7,665.1,False,False
+1451,4218707,Tubarão,SC,400,680.7,696.2,False,False
+1452,3545209,Salto,SP,210,680.8,675.0,False,False
+1453,3169901,Ubá,MG,472,681.0,686.2,False,False
+1454,3147105,Pará de Minas,MG,333,681.2,694.4,False,False
+1455,2304103,Crateús,CE,360,681.6,700.5,False,False
+1456,3151404,Pitangui,MG,76,681.8,696.8,False,False
+1457,3130101,Igarapé,MG,95,681.9,671.4,False,False
+1458,3169307,Três Corações,MG,272,682.0,687.1,False,False
+1459,5218805,Rio Verde,GO,662,682.0,672.5,False,False
+1460,3518404,Guaratinguetá,SP,250,682.1,702.5,False,False
+1461,3204559,Santa Maria de Jetibá,ES,84,682.1,677.4,False,False
+1462,3511102,Catanduva,SP,384,682.4,699.3,False,False
+1463,2802908,Itabaiana,SE,693,682.4,702.7,False,False
+1464,3547809,Santo André,SP,1916,682.4,677.6,False,False
+1465,3204708,São Gabriel da Palha,ES,97,682.6,707.8,False,False
+1466,3202405,Guarapari,ES,336,682.7,662.6,False,False
+1467,3554102,Taubaté,SP,683,682.8,697.0,False,False
+1468,3118601,Contagem,MG,1742,682.8,675.9,False,False
+1469,3125101,Extrema,MG,122,682.8,640.2,False,False
+1470,3201902,Domingos Martins,ES,139,682.8,724.0,False,False
+1471,3509502,Campinas,SP,2606,683.1,680.0,False,False
+1472,3502804,Araçatuba,SP,630,683.1,684.5,False,False
+1473,3548906,São Carlos,SP,884,683.3,709.1,False,False
+1474,3171303,Viçosa,MG,916,683.3,717.9,False,False
+1475,3300407,Barra Mansa,RJ,392,683.3,710.2,False,False
+1476,3500105,Adamantina,SP,96,683.4,698.5,False,False
+1477,3145901,Ouro Branco,MG,164,683.4,689.0,False,False
+1478,2611606,Recife,PE,7085,683.5,685.4,False,False
+1479,4202404,Blumenau,SC,589,683.5,673.9,False,False
+1480,3536703,Pederneiras,SP,96,683.6,676.5,False,False
+1481,3144607,Nepomuceno,MG,64,683.8,665.9,False,False
+1482,3201209,Cachoeiro de Itapemirim,ES,630,684.0,704.0,False,False
+1483,3131901,Itabirito,MG,170,684.0,680.4,False,False
+1484,4115200,Maringá,PR,1079,684.3,693.9,False,False
+1485,2607208,Ipojuca,PE,224,684.4,666.2,False,False
+1486,2304251,Cruz,CE,89,684.4,737.5,False,False
+1487,3503208,Araraquara,SP,668,684.6,679.9,False,False
+1488,3156700,Sabará,MG,228,684.8,672.5,False,False
+1489,3505500,Barretos,SP,310,685.1,671.7,False,False
+1490,3527108,Lins,SP,188,685.3,655.9,False,False
+1491,4216602,São José,SC,663,685.3,669.7,False,False
+1492,3303807,Paraty,RJ,115,685.5,652.3,False,False
+1493,3169356,Três Marias,MG,73,685.5,687.7,False,False
+1494,2301901,Barbalha,CE,347,685.6,685.4,False,False
+1495,3134400,Iturama,MG,143,685.9,650.6,False,False
+1496,2311801,Russas,CE,225,686.0,678.6,False,False
+1497,3506102,Bebedouro,SP,233,686.1,696.4,False,False
+1498,3503307,Araras,SP,260,686.1,695.8,False,False
+1499,4202008,Balneário Camboriú,SC,267,686.1,685.4,False,False
+1500,3131703,Itabira,MG,436,686.2,690.1,False,False
+1501,3101508,Além Paraíba,MG,157,686.8,678.5,False,False
+1502,3169406,Três Pontas,MG,151,686.9,708.3,False,False
+1503,3520509,Indaiatuba,SP,615,687.0,684.0,False,False
+1504,3137205,Lagoa da Prata,MG,198,687.3,705.5,False,False
+1505,2304202,Crato,CE,617,687.3,690.3,False,False
+1506,2919207,Lauro de Freitas,BA,1089,687.4,680.3,False,False
+1507,3127701,Governador Valadares,MG,1057,687.4,692.2,False,False
+1508,2408102,Natal,RN,4608,687.4,686.9,False,False
+1509,3515186,Espírito Santo do Pinhal,SP,65,687.4,691.4,False,False
+1510,3536505,Paulínia,SP,276,687.6,697.6,False,False
+1511,3529005,Marília,SP,782,687.6,695.6,False,False
+1512,3110608,Cambuí,MG,134,687.7,678.5,False,False
+1513,3508603,Cachoeira Paulista,SP,59,687.7,694.6,False,False
+1514,3548500,Santos,SP,1039,687.8,681.2,False,False
+1515,3151503,Piumhi,MG,167,688.3,679.6,False,False
+1516,3118304,Conselheiro Lafaiete,MG,494,688.5,698.7,False,False
+1517,3306305,Volta Redonda,RJ,824,688.6,695.0,False,False
+1518,3148103,Patrocínio,MG,278,688.7,690.1,False,False
+1519,3506003,Bauru,SP,1023,688.9,685.9,False,False
+1520,3139508,Manhumirim,MG,77,688.9,717.4,False,False
+1521,2504009,Campina Grande,PB,2763,688.9,693.7,False,False
+1522,3524303,Jaboticabal,SP,244,689.1,670.7,False,False
+1523,3201506,Colatina,ES,375,689.4,700.0,False,False
+1524,3203130,João Neiva,ES,61,689.5,707.9,False,False
+1525,3163706,São Lourenço,MG,316,689.6,694.7,False,False
+1526,3162500,São João del Rei,MG,581,689.9,688.5,False,False
+1527,4209102,Joinville,SC,1275,690.1,693.4,False,False
+1528,3538709,Piracicaba,SP,1117,690.3,694.4,False,False
+1529,2307304,Juazeiro do Norte,CE,1455,690.4,695.4,False,False
+1530,2304400,Fortaleza,CE,10618,690.5,690.6,False,False
+1531,3530805,Mogi Mirim,SP,179,690.6,717.9,False,False
+1532,3304201,Resende,RJ,436,691.4,704.3,False,False
+1533,3200607,Aracruz,ES,254,691.6,669.0,False,False
+1534,3105400,Barão de Cocais,MG,102,691.7,707.1,False,False
+1535,3525904,Jundiaí,SP,1063,691.7,692.7,False,False
+1536,3143401,Monte Sião,MG,81,691.7,701.5,False,False
+1537,3101607,Alfenas,MG,380,691.7,690.9,False,False
+1538,3157203,Santa Bárbara,MG,100,691.9,688.2,False,False
+1539,3111200,Campo Belo,MG,211,692.6,707.8,False,False
+1540,3549805,São José do Rio Preto,SP,1478,692.7,702.7,False,False
+1541,3501608,Americana,SP,528,692.8,692.7,False,False
+1542,3305802,Teresópolis,RJ,347,692.9,715.4,False,False
+1543,3147006,Paracatu,MG,257,693.1,672.5,False,False
+1544,4311403,Lajeado,RS,214,693.4,719.1,False,False
+1545,2312908,Sobral,CE,1053,693.9,697.4,False,False
+1546,3507506,Botucatu,SP,371,693.9,688.4,False,False
+1547,3540705,Porto Ferreira,SP,216,694.0,725.9,False,False
+1548,3549102,São João da Boa Vista,SP,201,694.0,705.6,False,False
+1549,3145604,Oliveira,MG,203,694.4,741.5,False,False
+1550,3201407,Castelo,ES,95,695.1,696.6,False,False
+1551,4204608,Criciúma,SC,606,695.4,703.0,False,False
+1552,4205407,Florianópolis,SC,1641,695.9,697.9,False,False
+1553,3136207,João Monlevade,MG,313,695.9,692.1,False,False
+1554,3303401,Nova Friburgo,RJ,656,696.0,735.5,False,False
+1555,3168705,Timóteo,MG,240,697.8,722.0,False,False
+1556,3115300,Cataguases,MG,217,697.8,696.9,False,False
+1557,3170206,Uberlândia,MG,2617,698.1,703.3,False,False
+1558,3548807,São Caetano do Sul,SP,875,698.2,699.6,False,False
+1559,3205200,Vila Velha,ES,1463,698.3,693.7,False,False
+1560,3139003,Machado,MG,161,698.7,714.2,False,False
+1561,3119401,Coronel Fabriciano,MG,235,698.9,720.9,False,False
+1562,3104007,Araxá,MG,293,698.9,707.6,False,False
+1563,3138203,Lavras,MG,578,699.1,698.1,False,False
+1564,2507507,João Pessoa,PB,4500,699.1,700.6,False,False
+1565,2800308,Aracaju,SE,3794,699.2,694.6,False,False
+1566,3128709,Guaxupé,MG,150,699.4,686.1,False,False
+1567,3122306,Divinópolis,MG,894,699.7,716.4,False,False
+1568,3138807,Luz,MG,82,700.0,650.0,False,False
+1569,3104205,Arcos,MG,100,700.3,715.2,False,False
+1570,3167202,Sete Lagoas,MG,731,700.3,698.4,False,False
+1571,3126109,Formiga,MG,176,700.3,750.9,False,False
+1572,3144805,Nova Lima,MG,321,700.4,693.1,False,False
+1573,3303906,Petrópolis,RJ,713,700.6,699.8,False,False
+1574,3132404,Itajubá,MG,585,700.8,701.7,False,False
+1575,3549904,São José dos Campos,SP,1995,700.8,703.9,False,False
+1576,3148004,Patos de Minas,MG,603,701.0,720.4,False,False
+1577,3556206,Valinhos,SP,330,701.1,692.1,False,False
+1578,3118007,Congonhas,MG,186,701.4,711.6,False,False
+1579,3147907,Passos,MG,508,701.4,708.7,False,False
+1580,3543402,Ribeirão Preto,SP,2171,702.2,710.2,False,False
+1581,3136702,Juiz de Fora,MG,1788,702.6,707.4,False,False
+1582,3556701,Vinhedo,SP,201,702.6,707.1,False,False
+1583,3131307,Ipatinga,MG,940,702.7,731.3,False,False
+1584,2211001,Teresina,PI,5298,702.7,698.5,False,False
+1585,3103504,Araguari,MG,346,703.4,694.6,False,False
+1586,5201108,Anápolis,GO,1376,704.0,722.5,False,False
+1587,3143302,Montes Claros,MG,2023,704.2,707.9,False,False
+1588,3151800,Poços de Caldas,MG,505,704.7,689.9,False,False
+1589,3107406,Bom Despacho,MG,115,705.3,709.9,False,False
+1590,3149309,Pedro Leopoldo,MG,173,706.6,685.0,False,False
+1591,3106200,Belo Horizonte,MG,8834,707.7,704.6,False,False
+1592,3152501,Pouso Alegre,MG,506,709.0,705.5,False,False
+1593,3133808,Itaúna,MG,233,709.3,739.3,False,False
+1594,3137601,Lagoa Santa,MG,256,709.8,708.1,False,False
+1595,3170107,Uberaba,MG,1058,710.9,705.8,False,False
+1596,2304285,Eusébio,CE,343,711.1,704.5,False,False
+1597,3102605,Andradas,MG,101,711.6,709.7,False,False
+1598,3170701,Varginha,MG,406,712.6,711.9,False,False
+1599,5208707,Goiânia,GO,6250,716.0,719.7,False,False
+1600,3205309,Vitória,ES,1507,716.7,718.5,False,False
+1601,3159605,Santa Rita do Sapucaí,MG,135,717.0,724.9,False,False
+1602,3303302,Niterói,RJ,2112,719.1,726.3,False,False
+1603,2300200,Acaraú,CE,211,722.2,756.2,False,False
