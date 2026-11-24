@@ -19,6 +19,7 @@ a nota dos participantes indígenas** em cerca de 41 pontos. Detalhes nas seçõ
 | `app.py` | o app Streamlit: formulário do questionário → nota que o modelo associa ao perfil |
 | `perfil.py` | as transformações linha a linha da seção 3, para uma pessoa (usado pelo app) |
 | `modelo_redacao_g5.joblib` | o modelo final ajustado, gravado pela seção 15.1 |
+| `municipios_priorizados.csv` | a lista de municípios da decisão da seção 16.2 (o app mostra numa aba) |
 | `requirements.txt` | dependências do app, nas mesmas versões com que o `.joblib` foi gravado |
 | `limiares_classe_sisu.csv` | cortes das classes Baixa / Intermediária / Competitiva (seção 13.1) |
 | `INF1032_G5_alvo_sisu.ipynb` | estudo do Sisu 2025 que gera `limiares_classe_sisu.csv`, a partir de `dados_sisu/` |
@@ -31,20 +32,21 @@ a nota dos participantes indígenas** em cerca de 41 pontos. Detalhes nas seçõ
 |---|---|---|---|
 | — | Objetivo, métrica e critério de sucesso | — | — |
 | 0 | Setup: caminhos, semente, imports | — | — |
-| 1 | Baixa os dados do INEP (se faltarem), carrega e junta participantes + redação | `PARTICIPANTES_2024.csv`, `COMPETENCIAS_REDACAO_2024.csv` | `enem2024_base_bruta.parquet` |
+| 1 | Baixa os dados do INEP (se faltarem), carrega e junta participantes + redação | `PARTICIPANTES_2024.csv`, `COMPETENCIAS_REDACAO_2024.csv` (e extrai o `RESULTADOS_2024.csv` para a 13.2) | `enem2024_base_bruta.parquet` |
 | 2 | Análise exploratória | base bruta | gráficos |
 | 3 | Engenharia de features (linha a linha) | base bruta | — |
 | 4 | Split treino/teste e gravação | — | `enem2024_features.parquet`, `lista_features.csv` |
-| 5–12 | Modelagem (só treino): preparo, referência, diagnóstico, candidatos, tuning, ensemble, interpretabilidade e escolha do modelo | `enem2024_features.parquet` | — |
-| 13 | Avaliação no teste (uma vez só) e erro em classes do Sisu | linhas de teste do parquet, `limiares_classe_sisu.csv` | — |
+| 5–12 | Modelagem (só treino): preparo, referência, diagnóstico, candidatos (com a comparação de florestas da 9.1), tuning, ensemble, interpretabilidade e escolha do modelo | `enem2024_features.parquet` | — |
+| 13 | Avaliação no teste (uma vez só), erro em classes do Sisu e por que o R² é baixo (13.2) | linhas de teste do parquet, `limiares_classe_sisu.csv`, `RESULTADOS_2024.csv` | — |
 | 14 | Erro por grupo no teste e checklist ético | — | — |
 | 15 | Exportar o modelo, conferir o app e publicar | `enem2024_base_bruta.parquet` (conferência do app) | `modelo_redacao_g5.joblib` |
+| 16 | Decisão: quais municípios priorizar com um orçamento fixo (regra no treino, avaliação no teste, custo e equidade) | previsões das seções 13 e 16.1 | `municipios_priorizados.csv` |
 
 ## Como rodar o notebook
 
 **No Colab:** abra o notebook e rode de cima para baixo. Não é preciso subir nada: o Setup baixa o
-`preparo.py` deste repositório e a seção 1 baixa os dois zips do INEP para `dados_brutos/` (~1,8 GB
-de disco; leva alguns minutos na primeira vez). As seções 1 a 4 só precisam rodar uma vez; depois,
+`preparo.py` deste repositório e a seção 1 baixa os dois zips do INEP para `dados_brutos/` (~3,5 GB
+de disco, com o `RESULTADOS_2024.csv`; leva alguns minutos na primeira vez). As seções 1 a 4 só precisam rodar uma vez; depois,
 dá para começar da seção 5 (rode antes a célula de Setup).
 
 Todos os caminhos são relativos à pasta do notebook: `dados_brutos/` (CSVs do INEP) e
@@ -76,7 +78,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-O app precisa, na mesma pasta, de `modelo_redacao_g5.joblib`, `preparo.py` e `perfil.py`. Se a seção 15.1
+O app precisa, na mesma pasta, de `modelo_redacao_g5.joblib`, `preparo.py` e `perfil.py` (e de
+`municipios_priorizados.csv` para a aba de municípios). Se a seção 15.1
 for rodada de novo com outras versões das bibliotecas, atualize o `requirements.txt` com as versões que ela
 imprime — o app avisa quando elas não batem.
 

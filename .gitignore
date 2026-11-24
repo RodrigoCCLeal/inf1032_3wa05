@@ -10,6 +10,8 @@ data_processed/*
 
 # exceção: a lista de features é pequena e vale versionar
 !data_processed/lista_features.csv
+# a lista de municípios da seção 16 é lida pelo app
+!municipios_priorizados.csv
 
 # --- Python / Jupyter ---
 .ipynb_checkpoints/
